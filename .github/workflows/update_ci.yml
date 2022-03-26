@@ -47,18 +47,6 @@ jobs:
         rm -f ./gfwlist_domain.txt
 
 
-    - name: update whitelist
-      run: | 
-        wget -O ./chnroute.txt 'https://ispip.clang.cn/all_cn.txt'
-        wget -O ./chn6route.txt 'https://ispip.clang.cn/all_cn_ipv6.txt'
-        cat ./chnroute.txt ./chn6route.txt > ./allchnroute.txt
-        cat ./allchnroute.txt | while read line
-        do
-          echo "whitelist-ip $line" >> ./whitelist-ip.conf
-        done
-        rm -f ./chnroute.txt
-        rm -f ./chn6route.txt
-        rm -f ./allchnroute.txt
         
     - name: update china-domain-list
       run: | 
