@@ -1,0 +1,100 @@
+name: Update-CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 15 * * 0
+  #watch:
+  #  types: [started]
+  #push:
+  #  branches: 
+  #    - master
+      
+jobs:
+  build:
+
+    runs-on: ubuntu-18.04
+    if: github.event.repository.owner.id == github.event.sender.id
+
+    steps:
+    - uses: actions/checkout@master
+    
+    - name: update serverlist
+      run: | 
+        rm -Rf *
+        git rm --cache *
+        wget 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext' -nv -O ./yoyo.txt
+        wget -qO - 'https://github.com/VeleSila/yhosts/raw/master/hosts' |  grep 0.0.0.0 > ./chn.txt
+        sed -i 's,0.0.0.0 ,,g' ./chn.txt
+        sed -i '/#/d' ./chn.txt
+        cat ./chn.txt ./yoyo.txt | sort | uniq > ./serverlist.txt
+        cat ./serverlist.txt | while read line
+        do
+          echo "address /$line/#" >> ./serverlist.conf
+        done
+        rm -f ./yoyo.txt
+        rm -f ./chn.txt
+        rm -f ./serverlist.txt
+
+
+    - name: update gfwlist
+      run: | 
+        wget -O ./gfwlist_domain.txt 'https://cokebar.github.io/gfwlist2dnsmasq/gfwlist_domain.txt'
+        cat ./gfwlist_domain.txt | while read line
+        do
+          echo "nameserver /$line/oversea" >> ./gfwlist.conf
+        done
+        rm -f ./gfwlist_domain.txt
+
+
+    - name: update whitelist
+      run: | 
+        wget -O ./chnroute.txt 'https://ispip.clang.cn/all_cn.txt'
+        wget -O ./chn6route.txt 'https://ispip.clang.cn/all_cn_ipv6.txt'
+        cat ./chnroute.txt ./chn6route.txt > ./allchnroute.txt
+        cat ./allchnroute.txt | while read line
+        do
+          echo "whitelist-ip $line" >> ./whitelist-ip.conf
+        done
+        rm -f ./chnroute.txt
+        rm -f ./chn6route.txt
+        rm -f ./allchnroute.txt
+        
+    - name: update china-domain-list
+      run: | 
+        wget -O ./china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+        wget -O ./apple.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
+        wget -O ./google.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf
+
+        #合并
+        cat ./apple.conf >> ./china.conf 2>/dev/null
+        cat ./google.conf >> ./china.conf 2>/dev/null
+
+        #删除不符合规则的域名
+        sed -i "s/^server=\/\(.*\)\/[^\/]*$/nameserver \/\1\/china/g;/^nameserver/!d" ./china.conf 2>/dev/null
+        
+        rm -f ./apple.conf
+        rm -f ./google.conf
+
+        
+        
+        
+    - name: Commit file
+      run: |
+        git config --global user.email ow4867208@gmail.com
+        git config --global user.name kiligone
+        sudo timedatectl set-timezone "Asia/Shanghai"
+        git add .
+        git commit -m "Update `date +%Y/%m/%d\ %H:%M:%S\ %Z`" -a || true
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{secrets.REPO_TOKEN}}
+        
+    - name: Cleanup Workflow Logs
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 1
