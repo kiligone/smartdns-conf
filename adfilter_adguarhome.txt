@@ -1643,6 +1643,7 @@
 ||afpssp.alimama.com^
 ||afptrack.alimama.com^
 ||afptrack.csbew.com^
+||afraidlanguage.com^
 ||afs.googlesyndication.com^
 ||agd.p.360.cn^
 ||agd2.p.360.cn^
@@ -2067,6 +2068,7 @@
 ||att.stargame.com^
 ||attach.s8bbs.com^
 ||attadworks.turn.com^
+||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attribution.report^
 ||atwola.com^
@@ -2372,7 +2374,6 @@
 ||binaryage-leechgate.herokuapp.com^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
-||biosda.com^
 ||bite.theta.sogoucdn.com^
 ||bitmedianetwork.com^
 ||biz.live.xunlei.com^
@@ -3110,6 +3111,7 @@
 ||corner.houyi.baofeng.net^
 ||corp.sohu.com^
 ||cors.hot-mob.com^
+||cosmosjackson.com^
 ||count.1133.cc^
 ||count.chanet.com.cn^
 ||count.knowsky.com^
@@ -5374,7 +5376,6 @@
 ||look.opskln.com^
 ||look.ufinkln.com^
 ||loopme.com^
-||lop.com^
 ||lottery.kuaiya.cn^
 ||loudlunch.com^
 ||lp.startapp.com^
@@ -5732,6 +5733,7 @@
 ||me.xdrig.com^
 ||measure.office.com^
 ||measuremap.com^
+||meatydime.com^
 ||med-fe.cdn.bcebos.com^
 ||medal.blog.csdn.net^
 ||media-adrunner.mycomputer.com^
@@ -6003,6 +6005,7 @@
 ||mtrcs.samba.tv^
 ||mtree.com^
 ||munchkin.marketo.net^
+||mundanenail.com^
 ||mundanepollution.com^
 ||munion.mediav.com^
 ||musiccounter.ru^
