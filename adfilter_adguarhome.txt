@@ -416,7 +416,6 @@
 ||ad.agrantsem.com^
 ||ad.alimama.com^
 ||ad.allboxing.ru^
-||ad.allstar.cz^
 ||ad.altervista.org^
 ||ad.amgdgt.com^
 ||ad.anuntis.com^
@@ -1570,7 +1569,6 @@
 ||adx.adxglobal.com^
 ||adx.agrantsem.com^
 ||adx.alimama.com^
-||adx.allstar.cz^
 ||adx.atnext.com^
 ||adx.chip.de^
 ||adx.dlads.cn^
@@ -1595,7 +1593,6 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
-||adzones.com^
 ||adzrevads.com^
 ||ae.bdstatic.com^
 ||aecpm.alicdn.com^
@@ -5263,7 +5260,6 @@
 ||linkrain.com^
 ||linkreferral.com^
 ||links-ranking.de^
-||linkshighway.com^
 ||linkstorms.com^
 ||linkswaper.com^
 ||linktarget.com^
@@ -6074,7 +6070,6 @@
 ||native.propellerads.com^
 ||nativeads.cacafly.com^
 ||nativeroll.tv^
-||naturalbid.com^
 ||navegg.com^
 ||navigator.io^
 ||navrcholu.cz^
@@ -6634,6 +6629,7 @@
 ||pmptrack-youku.gentags.net^
 ||png.lu.sogoucdn.com^
 ||pocketmath.com^
+||pointlesshour.com^
 ||pointroll.com^
 ||pokkt.com^
 ||pop-dev.ad4game.com^
@@ -8221,6 +8217,7 @@
 ||t.ksrong.com^
 ||t.l.qq.com^
 ||t.leady.com^
+||t.news.browns-restaurants.co.uk^
 ||t.notif-colissimo-laposte.info^
 ||t.pzclw.cn^
 ||t.qiuqiuqipai.com^
