@@ -799,7 +799,6 @@
 ||adnet.biz^
 ||adnet.de^
 ||adnet.ru^
-||adnetinteractive.com^
 ||adnetpub.yaolan.com^
 ||adnetwork.net^
 ||adnetworkperformance.com^
@@ -1103,7 +1102,6 @@
 ||ads.newsint.co.uk^
 ||ads.newsquest.co.uk^
 ||ads.nexage.com^
-||ads.ninemsn.com.au^
 ||ads.nj.com^
 ||ads.nola.com^
 ||ads.nordichardware.com^
@@ -1418,6 +1416,7 @@
 ||adsin.zhangyoubao.com^
 ||adsite.hot-mob.com^
 ||adskeeper.co.uk^
+||adskeeper.com^
 ||adsklick.de^
 ||adskpak.com^
 ||adslvfile.qq.com^
@@ -1593,6 +1592,7 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
+||adzones.com^
 ||adzrevads.com^
 ||ae.bdstatic.com^
 ||aecpm.alicdn.com^
@@ -1769,10 +1769,12 @@
 ||analytics.r.msn.com^
 ||analytics.rayjump.com^
 ||analytics.samdd.me^
+||analytics.santander.co.uk^
 ||analytics.siliconexpert.com^
 ||analytics.snssdk.com^
 ||analytics.swiggy.com^
 ||analytics.talkingdata.net^
+||analytics.tiktok.com^
 ||analytics.turn.com^
 ||analytics.wanmei.com^
 ||analytics.woozooo.com^
@@ -2316,8 +2318,6 @@
 ||beacon.taboola.com^
 ||beacon1.turn.com^
 ||beacon2.turn.com^
-||beam-ws.giraffe360.com^
-||beam.giraffe360.com^
 ||beamincrease.com^
 ||beap-bc.yahoo.com^
 ||beap.adss.yahoo.com^
@@ -2371,6 +2371,7 @@
 ||binaryage-leechgate.herokuapp.com^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
+||biosda.com^
 ||bite.theta.sogoucdn.com^
 ||bitmedianetwork.com^
 ||biz.live.xunlei.com^
@@ -3147,7 +3148,6 @@
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.003store.com^
-||cp.abbp1.pw^
 ||cp.greenxf.cn^
 ||cp.gs307.com^
 ||cp.jfcdns.com^
@@ -3183,6 +3183,7 @@
 ||crakmedia.com^
 ||craktraffic.com^
 ||crashapi.growingio.com^
+||crashchance.com^
 ||crashes.mo.wps.cn^
 ||crashlytics.163.com^
 ||crashlytics.com^
@@ -3211,6 +3212,7 @@
 ||crwdcntrl.net^
 ||crypto-loot.org^
 ||cs.37see.com^
+||cs.co^
 ||cs.twcczhu.com^
 ||cs02-pps-drcn.dbankcdn.com^
 ||csbew.com^
@@ -3533,7 +3535,6 @@
 ||dolphin.deliver.ifeng.com^
 ||domaining.in^
 ||domainsponsor.com^
-||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
@@ -3785,7 +3786,6 @@
 ||eff.inte.sogou.com^
 ||eff.lu.sogou.com^
 ||effectivemeasure.com^
-||effectivemeasure.net^
 ||efficaciouscactus.com^
 ||efo25978.eeo1h1.cn^
 ||eg.gitpapa.com^
@@ -4004,7 +4004,6 @@
 ||ffb.feihuo.com^
 ||fflsn.com^
 ||ffre.ffrepair.com^
-||ffxcam.fairfax.com.au^
 ||fghmc.ga25.com^
 ||file.apicvn.com^
 ||file.bmob.cn^
@@ -4259,6 +4258,7 @@
 ||go-clicks.de^
 ||go-mpulse.net^
 ||go-rank.de^
+||go.dhs.gov^
 ||go.dlads.cn^
 ||go.eu.sparkpostmail1.com^
 ||go.hangzhou.com.cn^
@@ -4297,7 +4297,6 @@
 ||gp.zaiyunli.cn^
 ||gracefulsock.com^
 ||graizoah.com^
-||grandioseguide.com^
 ||grapeshot.co.uk^
 ||green-ad.ad-stir.com^
 ||green.erne.co^
@@ -4368,6 +4367,7 @@
 ||haiwai-ic.ksosoft.com^
 ||haltingbadge.com^
 ||hammerhearing.com^
+||handsomehose.com^
 ||handyfield.com^
 ||hanmiyong.com^
 ||hao.7654.com^
@@ -4829,7 +4829,6 @@
 ||insightexpress.com^
 ||insightexpressai.com^
 ||inskinad.com^
-||inslco.bar^
 ||inspectlet.com^
 ||inst.360safe.com^
 ||install.365-stream.com^
@@ -4894,7 +4893,6 @@
 ||its.fugetech.com^
 ||itv.hexun.com^
 ||iu.juzi.cn^
-||iubzka.online^
 ||ivwbox.de^
 ||ivy.pcauto.com.cn^
 ||ivy.pcbaby.com.cn^
@@ -5260,6 +5258,7 @@
 ||linkrain.com^
 ||linkreferral.com^
 ||links-ranking.de^
+||linkshighway.com^
 ||linkstorms.com^
 ||linkswaper.com^
 ||linktarget.com^
@@ -5720,6 +5719,8 @@
 ||mcdlks.com^
 ||mclick.simba.taobao.com^
 ||mcore.vcgame.cn^
+||mcs-va.tiktok.com^
+||mcs-va.tiktokv.com^
 ||md.he9630.com^
 ||md.tvzhe.com^
 ||mdc.meitustat.com^
@@ -5924,6 +5925,7 @@
 ||moka.inte.sogoucdn.com^
 ||moldyicicle.com^
 ||momsg.wps.cn^
+||mon-va.byteoversea.com^
 ||mon.ad-stir.com^
 ||mon.byteoversea.com^
 ||monarchads.com^
@@ -6127,6 +6129,7 @@
 ||news.qhstatic.com^
 ||news.s9377.com^
 ||news.xueyanshan.com^
+||newsadsppush.com^
 ||newsbee.adeaz.com^
 ||newsletter-link.com^
 ||newspage.xilu.com^
@@ -6417,7 +6420,6 @@
 ||pagead46.l.doubleclick.net^
 ||pagechoicemotu.gentags.net^
 ||pagefair.com^
-||pagefair.net^
 ||pagerank-ranking.de^
 ||pageranktop.com^
 ||pages-juxiao.mediav.com^
@@ -6567,7 +6569,6 @@
 ||ping.acc.sogou.com^
 ||ping.chartbeat.net^
 ||ping.pinyin.sogou.com^
-||ping.ublock.org^
 ||pingma.qq.com^
 ||pipedream.wistia.com^
 ||pippio.com^
@@ -6628,7 +6629,6 @@
 ||pmptrack-yidianzixunxm.gentags.net^
 ||pmptrack-youku.gentags.net^
 ||png.lu.sogoucdn.com^
-||pocketmath.com^
 ||pointlesshour.com^
 ||pointroll.com^
 ||pokkt.com^
@@ -6725,6 +6725,7 @@
 ||prosper.on-line-casino.ca^
 ||protectcrev.com^
 ||protectsubrev.com^
+||protestcopy.com^
 ||proton-int.flurry.com^
 ||proton-tm.com^
 ||protraffic.com^
@@ -8582,6 +8583,7 @@
 ||tracking.netalerts.io^
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
+||tracking.pastapplauddeterseminarproof.makeup^
 ||tracking.propellerads.com^
 ||tracking.taboola.com^
 ||tracking.theoceanac.online^
@@ -8641,7 +8643,6 @@
 ||trc.taboola.com^
 ||trc0.taboola.com^
 ||trck.a8.net^
-||trcked.me^
 ||trcklion.com^
 ||trctest.taboola.com^
 ||treasuredata.com^
@@ -8981,7 +8982,6 @@
 ||ventivmedia.com^
 ||venturead.com^
 ||ver.touclick.com^
-||verblife-3.co^
 ||verblife-5.co^
 ||vericlick.com^
 ||vertamedia.com^
