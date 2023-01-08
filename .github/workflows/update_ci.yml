@@ -40,7 +40,8 @@ jobs:
 
     - name: update gfwlist
       run: | 
-        wget -O ./gfwlist_domain.txt 'https://cokebar.github.io/gfwlist2dnsmasq/gfwlist_domain.txt'
+        wget -O ./gfwlist.sh 'https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh'
+        sh gfwlist.sh -l -o gfwlist_domain.txt
         cat ./gfwlist_domain.txt | while read line
         do
           echo "nameserver /$line/oversea" >> ./gfwlist.conf
