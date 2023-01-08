@@ -47,6 +47,7 @@ jobs:
           echo "nameserver /$line/oversea" >> ./gfwlist.conf
         done
         rm -f ./gfwlist_domain.txt
+        rm -f ./gfwlist.sh
 
 
         
