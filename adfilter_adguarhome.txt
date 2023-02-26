@@ -301,6 +301,7 @@
 ||aa1.pub.funshion.com^
 ||aaa.zxglpj.cn^
 ||aaddss.tohomh.com^
+||aaddzz.com^
 ||aag.yahooapis.jp^
 ||aapunotimeout.com^
 ||aax-eu-dub.amazon.com^
@@ -646,6 +647,7 @@
 ||adcontent.gamespy.com^
 ||adcore.lenovomm.com^
 ||adcount.yoka.com^
+||adcovery.com^
 ||adcr.naver.com^
 ||adcreative.naver.com^
 ||adcycle.com^
@@ -758,6 +760,7 @@
 ||adm2.autoimg.cn^
 ||adm3.autoimg.cn^
 ||admagnet.net^
+||admailtiser.com^
 ||adman.gr^
 ||adman.otenet.gr^
 ||admanagement.ch^
@@ -1163,6 +1166,7 @@
 ||ads.smartclick.com^
 ||ads.socapro.com^
 ||ads.socialtheater.com^
+||ads.soft32.com^
 ||ads.soweb.gr^
 ||ads.space.com^
 ||ads.stackoverflow.com^
@@ -2246,6 +2250,7 @@
 ||barnesandnoble.bfast.com^
 ||bartender.cc^
 ||base.api.my7v.com^
+||basebanner.com^
 ||basketballbelieve.com^
 ||baskettexture.com^
 ||bat.bing.com^
@@ -2857,6 +2862,7 @@
 ||click.hooligapps.com^
 ||click.i.southwesternrailway.com^
 ||click.infoblox.com^
+||click.justwatch.com^
 ||click.kmindex.ru^
 ||click.lergao.com^
 ||click.linktech.cn^
@@ -3562,6 +3568,7 @@
 ||domaining.in^
 ||domainsponsor.com^
 ||domainsteam.de^
+||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
@@ -4620,6 +4627,7 @@
 ||i1img.com^
 ||i1media.no^
 ||i2.akjunshi.com^
+||i305175.net^
 ||i4.fuimg.com^
 ||i5.akjunshi.com^
 ||ia.51.la^
@@ -4901,6 +4909,7 @@
 ||ip.ws.126.net^
 ||ip193.cn^
 ||ipengtai.huanqiu.com^
+||iperceptions.com^
 ||ipinyou.com^
 ||ipm.atm.cp31.ott.cibntv.net^
 ||ipm.atm.youku.com^
@@ -6129,6 +6138,7 @@
 ||ndparking.com^
 ||ne.1rtb.com^
 ||nedstatbasic.net^
+||needlessnorth.com^
 ||needyneedle.com^
 ||neighborlywatch.com^
 ||nend.net^
@@ -6469,6 +6479,7 @@
 ||pages.juxiao.mediav.com^
 ||pages2.marketo.com^
 ||pageshow.dftoutiao.com^
+||painstakingpickle.com^
 ||paleleaf.com^
 ||panda.adsame.com^
 ||panda.kdnet.net^
@@ -6627,7 +6638,6 @@
 ||pixel.adsafeprotected.com^
 ||pixel.advertising.com^
 ||pixel.condenastdigital.com^
-||pixel.digitru.st^
 ||pixel.keywee.co^
 ||pixel.mathtag.com^
 ||pixel.quantserve.com^
@@ -8533,6 +8543,7 @@
 ||toplist.cz^
 ||toplist.pornhost.com^
 ||toplista.mw.hu^
+||toplistcity.com^
 ||toprebates.com^
 ||topsir.com^
 ||topsite.lv^
