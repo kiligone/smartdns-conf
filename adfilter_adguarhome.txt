@@ -33,6 +33,7 @@
 ||180hits.de^
 ||180searchassistant.com^
 ||181ue.com^
+||1link2020.com^
 ||1rx.io^
 ||2.1010pic.com^
 ||2.92caijing.com^
@@ -2044,6 +2045,7 @@
 ||asewlfjqwlflkew.com^
 ||ashow.pcpop.com^
 ||asia.marketo.com^
+||asia999.website^
 ||asimgs.pplive.cn^
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||aso1.net^
@@ -2848,6 +2850,8 @@
 ||click.comm.rcibank.co.uk^
 ||click.dangdang.com^
 ||click.digital.metaquestmail.com^
+||click.discord.com^
+||click.e.bbcmail.co.uk^
 ||click.e.progressive.com^
 ||click.em.blizzard.com^
 ||click.email.bbc.com^
@@ -3566,7 +3570,6 @@
 ||dol.tianya.cn^
 ||dolphin.deliver.ifeng.com^
 ||domaining.in^
-||domainsponsor.com^
 ||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
@@ -6672,7 +6675,6 @@
 ||plt.data.pplive.com^
 ||pltraffic8.com^
 ||pluckypocket.com^
-||pluckytaste.com^
 ||plugrush.com^
 ||pmh.souid.com^
 ||pmir.3g.qq.com^
@@ -6748,6 +6750,7 @@
 ||prism-report-ddd.dreport.meituan.net^
 ||privatecash.com^
 ||prmtracking.com^
+||pro-advertising.com^
 ||pro-market.net^
 ||pro.baidu.com^
 ||pro.cn^
@@ -7466,6 +7469,7 @@
 ||sa1.tuisong.baidu.com^
 ||sa3.tuisong.baidu.com^
 ||sabio.us^
+||sadloaf.com^
 ||safe-aisle.jointreport-switch.com^
 ||safe.tsgpay.cn^
 ||sail-horizon.com^
@@ -7533,6 +7537,7 @@
 ||screenshot.ninebox.cn^
 ||script-bd.baixing.net^
 ||script.crazyegg.com^
+||scripte-monster.de^
 ||scrubswim.com^
 ||scs.openspeech.cn^
 ||sd.domob.cn^
@@ -7717,6 +7722,7 @@
 ||shinystat.com^
 ||shinystat.it^
 ||shiveringspot.com^
+||shiverscissors.com^
 ||shockinggrass.com^
 ||shoppingads.com^
 ||show-3.mediav.com^
@@ -8292,6 +8298,7 @@
 ||t.ksrong.com^
 ||t.l.qq.com^
 ||t.leady.com^
+||t.mmtrkr.com^
 ||t.news.browns-restaurants.co.uk^
 ||t.notif-colissimo-laposte.info^
 ||t.pzclw.cn^
@@ -8666,6 +8673,7 @@
 ||tracking.propellerads.com^
 ||tracking.shopstyle.com^
 ||tracking.taboola.com^
+||tracking.theoceanac.online^
 ||tracking.thinkabt.com^
 ||tracking.v.tf.360.cn^
 ||tracking.vagueunlikecowerscreamforbid.hair^
