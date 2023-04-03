@@ -136,6 +136,7 @@
 ||77tracking.com^
 ||79t2.admaster.com.cn^
 ||7bpeople.com^
+||7cnq.net^
 ||7mnpeh.com1.z0.glb.clouddn.com^
 ||7r29uu.vyk.admaster.com.cn^
 ||7r3cna.viqiyi.admaster.com.cn^
@@ -496,7 +497,6 @@
 ||ad.mediastorm.hu^
 ||ad.mg^
 ||ad.mi.com^
-||ad.mobstazinc.cn^
 ||ad.musicmatch.com^
 ||ad.myapple.pl^
 ||ad.mynetreklam.com.streamprovider.net^
@@ -819,7 +819,6 @@
 ||adp.s8bbs.com^
 ||adp1.cnool.net^
 ||adpai.thepaper.cn^
-||adpenguin.biz^
 ||adpepper.dk^
 ||adpepper.nl^
 ||adperium.com^
@@ -1057,7 +1056,6 @@
 ||ads.kabooaffiliates.com^
 ||ads.kaktuz.net^
 ||ads.kelbymediagroup.com^
-||ads.kinobox.cz^
 ||ads.kinxxx.com^
 ||ads.kompass.com^
 ||ads.krawall.de^
@@ -1747,7 +1745,6 @@
 ||analytics.cloudron.io^
 ||analytics.cohesionapps.com^
 ||analytics.dashboard.fingerprint.com^
-||analytics.dnsfilter.com^
 ||analytics.dspunion.com^
 ||analytics.emarketer.com^
 ||analytics.ext.go-tellm.com^
@@ -2876,6 +2873,7 @@
 ||click.mz.simba.taobao.com^
 ||click.news.vans.com^
 ||click.nl.npr.org^
+||click.nvgaming.nvidia.com^
 ||click.qianqian.com^
 ||click.redditmail.com^
 ||click.stat.hao.360.cn^
@@ -3864,7 +3862,6 @@
 ||encouragingwilderness.com^
 ||endurableshop.com^
 ||energeticladybug.com^
-||engage.dnsfilter.com^
 ||engage.webshrinker.com^
 ||engage.windows.com^
 ||engagebdr.com^
@@ -4247,7 +4244,6 @@
 ||getclicky.com^
 ||getintent.com^
 ||getmyads.com^
-||gfcim5.gq^
 ||gfd.huigoushop.com^
 ||gfyoyo.adpolestar.net^
 ||gg.1whour.com^
@@ -4299,7 +4295,6 @@
 ||go-rank.de^
 ||go.dhs.gov^
 ||go.dlads.cn^
-||go.dnsfilter.com^
 ||go.eu.sparkpostmail1.com^
 ||go.hangzhou.com.cn^
 ||go.icann.org^
@@ -4479,6 +4474,7 @@
 ||hits.europuls.eu^
 ||hits.informer.com^
 ||hits.puls.lv^
+||hits.sh^
 ||hits.theguardian.com^
 ||hits4me.com^
 ||hitslink.com^
@@ -4495,7 +4491,6 @@
 ||hk.napi.ucweb.com^
 ||hl.kuzu.com^
 ||hljdnserror1.wo.com.cn^
-||hlok.qertewrt.com^
 ||hlrcv.stage.adobe.com^
 ||hm.baidu.com^
 ||hm.baidu.com.zzsdtzb.com^
@@ -6256,7 +6251,6 @@
 ||oas.roanoke.com^
 ||oas.toronto.com^
 ||oas.uniontrib.com^
-||oas.villagevoice.com^
 ||oascentral.abclocal.go.com^
 ||oascentral.chicagobusiness.com^
 ||oascentral.fortunecity.com^
@@ -6767,7 +6761,6 @@
 ||projectwonderful.com^
 ||promo.awempire.com^
 ||promo.badoink.com^
-||promo.ulust.com^
 ||promobenef.com^
 ||promos.bwin.it^
 ||promos.fling.com^
@@ -7744,6 +7737,7 @@
 ||shrillspoon.com^
 ||shtt.shuqw.com^
 ||shuttle.bayescom.com^
+||shxtrk.com^
 ||sickflock.com^
 ||sicksmash.com^
 ||sidebar.angelfire.com^
@@ -8592,7 +8586,6 @@
 ||track.flexlinkspro.com^
 ||track.freemmo2017.com^
 ||track.game18click.com^
-||track.homejobs.careers^
 ||track.hot-mob.com^
 ||track.hujiang.com^
 ||track.lettingaproperty.com^
@@ -8714,6 +8707,7 @@
 ||trafficz.com^
 ||traffiq.com^
 ||trafic.ro^
+||traildelsfars.com^
 ||training.leadboltads.net^
 ||traktrafficflow.com^
 ||tralog.ganji.com^
@@ -9294,6 +9288,7 @@
 ||weld.uunice.com^
 ||weld830.uunice.com^
 ||wellmadefrog.com^
+||welved.com^
 ||wenku-cms.bj.bcebos.com^
 ||weq.me^
 ||werbung.meteoxpress.com^
