@@ -22,7 +22,6 @@
 ||101order.com^
 ||1178.shucong.com^
 ||1234xm.com^
-||123freeavatars.com^
 ||12i.cn^
 ||13023.url.7wkw.com^
 ||144.dragonparking.com^
@@ -1211,7 +1210,6 @@
 ||ads.vamaker.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
-||ads.videosz.com^
 ||ads.vipbaihe.com^
 ||ads.virtual-nights.com^
 ||ads.virtuopolitan.com^
@@ -1483,6 +1481,7 @@
 ||adsz.wagbridge.tmall.alimama.com^
 ||adt.cpatrk.net^
 ||adt.xdrig.com^
+||adt598.com^
 ||adtech-digital.ru^
 ||adtech.com^
 ||adtech.de^
@@ -2836,6 +2835,7 @@
 ||click.admaster.com.cn^
 ||click.adperium.com^
 ||click.airmalta-mail.com^
+||click.aliexpress.com^
 ||click.atdmt.com^
 ||click.bes.baidu.com^
 ||click.bkdpt.com^
@@ -3792,7 +3792,6 @@
 ||ediuschina.com^
 ||edp2.adriver.ru^
 ||edu-ad-test-cdn.cdn.bcebos.com^
-||educationdynamics.com^
 ||ee.0pi84.cn^
 ||ee.1s8pj.cn^
 ||ee.6x53p.cn^
@@ -3899,6 +3898,7 @@
 ||espn-ak.starwave.com^
 ||estat.com^
 ||esty.com^
+||et.educationdynamics.com^
 ||et.emarbox.com^
 ||et.nytimes.com^
 ||et.tanx.com^
@@ -4055,7 +4055,6 @@
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
 ||fireworks-advertising.com^
-||first.nova.cz^
 ||firstlightera.com^
 ||fivecdm.com^
 ||fix.hpplay.cn^
@@ -4350,6 +4349,7 @@
 ||gsp0.baidu.com^
 ||gstat.bitauto.com^
 ||gstaticx.com^
+||guardeddirection.com^
 ||guardedschool.com^
 ||guce.advertising.com^
 ||guess.tf.360.cn^
@@ -7748,7 +7748,6 @@
 ||silvermob.com^
 ||simba.m.taobao.com^
 ||simpleanalytics.io^
-||simplehitcounter.com^
 ||simpli.fi^
 ||sin.di2y21.top^
 ||sin1-ib.adnxs.com^
@@ -8266,7 +8265,6 @@
 ||t.agrantsem.com^
 ||t.alimama.com^
 ||t.appsflyer.com^
-||t.armchairbookie.com^
 ||t.atpanel.com^
 ||t.bawafx.com^
 ||t.carta.com^
@@ -9308,6 +9306,7 @@
 ||wickedreports.com^
 ||widespace.com^
 ||widget.criteo.com^
+||widget.educationdynamics.com^
 ||widget.privy.com^
 ||widgetbucks.com^
 ||widnd.dajiadou6.com^
