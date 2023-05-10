@@ -394,7 +394,6 @@
 ||ad-space.net^
 ||ad-specs.guoshipartners.com^
 ||ad-stir.com^
-||ad-tech.com^
 ||ad-test.mediav.com^
 ||ad-up.com^
 ||ad-verify.flurry.com^
@@ -862,7 +861,6 @@
 ||ads-ec.adaptv.advertising.com^
 ||ads-eu.adaptv.advertising.com^
 ||ads-game-187f4.firebaseapp.com^
-||ads-kesselhaus.com^
 ||ads-pixiv.net^
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
@@ -1380,7 +1378,6 @@
 ||adserver01.de^
 ||adserver1.mindshare.de^
 ||adserver2.mindshare.de^
-||adserver5b.xyz^
 ||adserverplus.com^
 ||adserverpub.com^
 ||adserversolutions.com^
@@ -1595,7 +1592,6 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
-||adzones.com^
 ||adzrevads.com^
 ||ae.bdstatic.com^
 ||aecpm.alicdn.com^
@@ -2382,7 +2378,6 @@
 ||bitmedianetwork.com^
 ||biz.live.xunlei.com^
 ||biz.vpon.com^
-||bizad.nikkeibp.co.jp^
 ||bizarrebaseball.com^
 ||bizible.com^
 ||bizographics.com^
@@ -2465,7 +2460,6 @@
 ||brightcom.com^
 ||brightinfo.com^
 ||brightmountainmedia.com^
-||british-banners.com^
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
@@ -2481,6 +2475,7 @@
 ||bsiet.husky.sogou.com^
 ||bss.pandora.xiaomi.com^
 ||bsv.atm.youku.com^
+||btglss.net^
 ||btn.onlylady.com^
 ||btrace.play.t002.ottcn.com^
 ||btrace.qq.com^
@@ -2836,6 +2831,7 @@
 ||click.adperium.com^
 ||click.airmalta-mail.com^
 ||click.aliexpress.com^
+||click.allkeyshop.com^
 ||click.atdmt.com^
 ||click.bes.baidu.com^
 ||click.bkdpt.com^
@@ -3568,7 +3564,6 @@
 ||dol.tianya.cn^
 ||dolphin.deliver.ifeng.com^
 ||domaining.in^
-||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
@@ -4491,6 +4486,7 @@
 ||hk.napi.ucweb.com^
 ||hl.kuzu.com^
 ||hljdnserror1.wo.com.cn^
+||hlok.qertewrt.com^
 ||hlrcv.stage.adobe.com^
 ||hm.baidu.com^
 ||hm.baidu.com.zzsdtzb.com^
@@ -4622,7 +4618,6 @@
 ||i.w.inmobi.com^
 ||i.w55c.net^
 ||i18q.admaster.com.cn^
-||i1img.com^
 ||i1media.no^
 ||i2.akjunshi.com^
 ||i305175.net^
@@ -4852,7 +4847,6 @@
 ||info.yitsoftware.com^
 ||infoevent.startappservice.com^
 ||infolinks.com^
-||information.com^
 ||ingameads.gameloft.com^
 ||ini.update.360safe.com^
 ||init.phpwind.com^
@@ -8535,7 +8529,6 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||topbucks.com^
 ||topforall.com^
 ||topgamesites.net^
 ||tophippo.vlion.cn^
