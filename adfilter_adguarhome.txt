@@ -32,7 +32,6 @@
 ||180hits.de^
 ||180searchassistant.com^
 ||181ue.com^
-||1link2020.com^
 ||1rx.io^
 ||2.1010pic.com^
 ||2.92caijing.com^
@@ -1443,7 +1442,6 @@
 ||adsrvmedia.adk2x.com^
 ||adsrvr.org^
 ||adstacks.in^
-||adstage.io^
 ||adstanding.com^
 ||adstat.4u.pl^
 ||adstest.weather.com^
@@ -1784,6 +1782,7 @@
 ||android.rqd.qq.com^
 ||androidads20staging.adcolony.com^
 ||androidads23.adcolony.com^
+||androiddownload.net^
 ||androidsdk.ads.mp.mydas.mobi^
 ||andrqd.play.aiseet.atianqi.com^
 ||anfeng.com^
@@ -1801,7 +1800,6 @@
 ||ap.ksrong.com^
 ||apac-ads.flurry.com^
 ||apas.aipai.com^
-||apathetictheory.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-app.coocaa.ottcn.com^
@@ -2171,13 +2169,11 @@
 ||banner.nixnet.cz^
 ||banner.noblepoker.com^
 ||banner.northsky.com^
-||banner.orb.net^
 ||banner.penguin.cz^
 ||banner.rbc.ru^
 ||banner.reinstil.de^
 ||banner.tanto.de^
 ||banner.titan-dsl.de^
-||banner.vadian.net^
 ||banner.webmersion.com^
 ||banner10.zetasystem.dk^
 ||bannerads.de^
@@ -2761,7 +2757,6 @@
 ||ch-trc.taboola.com^
 ||ch-vid-events.taboola.com^
 ||chairscrack.com^
-||chameleon.ad^
 ||changan.bama555.com^
 ||channel.fanxing.kugou.com^
 ||channelintelligence.com^
@@ -2838,7 +2833,9 @@
 ||click.e.zoom.us^
 ||click.em.blizzard.com^
 ||click.email.bbc.com^
+||click.email.microsoftemail.com^
 ||click.email.sonos.com^
+||click.email.strawberry.no^
 ||click.fool.com^
 ||click.gamersky.com^
 ||click.ganji.com^
@@ -3409,7 +3406,6 @@
 ||de17a.com^
 ||deadpangate.com^
 ||deadpanmarble.com^
-||deadpantruck.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -3422,7 +3418,6 @@
 ||decknetwork.net^
 ||decoycreation.com^
 ||deepintent.com^
-||defectivesun.com^
 ||delegatediscussion.com^
 ||delivery-pc.wasu.cn^
 ||delivery.maihehd.com^
@@ -3890,7 +3885,6 @@
 ||etahub.com^
 ||etargetnet.com^
 ||ether-pack.pangolin-sdk-toutiao.com^
-||ethereum-ads.com^
 ||etl-xlmc-ssl.sandai.net^
 ||etl-xlmc-ssl.xunlei.com^
 ||etl.xlmc.sandai.net^
@@ -5197,7 +5191,6 @@
 ||larati.net^
 ||largebrass.com^
 ||laughablecopper.com^
-||laughcloth.com^
 ||launchbit.com^
 ||launches.appsflyer.com^
 ||layer-ad.de^
@@ -5288,6 +5281,7 @@
 ||linkswaper.com^
 ||linksynergy.com^
 ||linktarget.com^
+||linkvertise.com^
 ||liquidad.narrowcastmedia.com^
 ||lishi.yxbao.com^
 ||lishi1.yxbao.com^
@@ -5800,7 +5794,6 @@
 ||megastats.com^
 ||megawerbung.de^
 ||meitubeauty.meitudata.com^
-||mellowads.com^
 ||meltmilk.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
@@ -6060,6 +6053,7 @@
 ||myes.youku.com^
 ||mylink-today.com^
 ||mypagerank.net^
+||mypagerank.ru^
 ||mypowermall.com^
 ||mystat-in.net^
 ||mystat.pl^
@@ -6116,7 +6110,6 @@
 ||needyneedle.com^
 ||neighborlywatch.com^
 ||nend.net^
-||neocounter.neoworx-blog-tools.net^
 ||nervoussummer.com^
 ||net-filter.com^
 ||net.rayjump.com^
@@ -6701,6 +6694,7 @@
 ||pr-star.de^
 ||pr.da.netease.com^
 ||pr.ybp.yahoo.com^
+||praddpro.de^
 ||prcappzone.intel.com^
 ||prchecker.info^
 ||pre-ad.alimama.com^
@@ -6755,6 +6749,7 @@
 ||props.id^
 ||prosper.on-line-casino.ca^
 ||protectcrev.com^
+||protectivemetrics.com^
 ||protectsubrev.com^
 ||protestcopy.com^
 ||proton-int.flurry.com^
@@ -7444,6 +7439,7 @@
 ||sadloaf.com^
 ||safe-aisle.jointreport-switch.com^
 ||safe.tsgpay.cn^
+||safeanalytics.net^
 ||sail-horizon.com^
 ||saitef.cn^
 ||samba.adsame.com^
@@ -8513,7 +8509,6 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||topbucks.com^
 ||topforall.com^
 ||topgamesites.net^
 ||tophippo.vlion.cn^
@@ -8571,6 +8566,7 @@
 ||track.mediav.com^
 ||track.miro.com^
 ||track.nationalgunrights.org^
+||track.privacyatclearbit.com^
 ||track.ra.icast.cn^
 ||track.recreativ.ru^
 ||track.segmetrics.io^
@@ -8662,7 +8658,6 @@
 ||trackingsoft.com^
 ||tracklog.58.com^
 ||trackmysales.com^
-||trackuhub.com^
 ||tradeadexchange.com^
 ||tradedoubler.com^
 ||traffic-exchange.com^
@@ -9300,6 +9295,7 @@
 ||witch-counter.de^
 ||wizaly.com^
 ||wl.houyi.baofeng.net^
+||wl.spotify.com^
 ||wlmarketing.com^
 ||wlneteller.adsrv.eacdn.com^
 ||wm.20150.net^
