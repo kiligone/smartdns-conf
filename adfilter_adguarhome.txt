@@ -1002,7 +1002,6 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
-||ads.gaypoint.hu^
 ||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gionee.com^
@@ -1662,7 +1661,6 @@
 ||alertafterthought.com^
 ||alertserver.ushaqi.com^
 ||alexa-sitestats.s3.amazonaws.com^
-||alexametrics.com^
 ||algorix.co^
 ||ali-stats.jpush.cn^
 ||aliasanvil.com^
@@ -2022,7 +2020,6 @@
 ||asewlfjqwlflkew.com^
 ||ashow.pcpop.com^
 ||asia.marketo.com^
-||asia999.website^
 ||asimgs.pplive.cn^
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||aso1.net^
@@ -2442,6 +2439,7 @@
 ||bridgetrack.com^
 ||briefstem.com^
 ||brightcom.com^
+||brightinfo.com^
 ||brightmountainmedia.com^
 ||broadboundary.com^
 ||broadcastbed.com^
@@ -2850,6 +2848,7 @@
 ||click.lergao.com^
 ||click.linktech.cn^
 ||click.mail.hotels.com^
+||click.mail.salesforce.com^
 ||click.mailing.ticketmaster.com^
 ||click.mediav.com^
 ||click.mkt.grab.com^
@@ -3457,6 +3456,7 @@
 ||dev01.ad4game.com^
 ||developer.ad4game.com^
 ||devs.data.mob.com^
+||dewdroplagoon.com^
 ||df.tanx.com^
 ||df.telemetry.microsoft.com^
 ||dfp.suning.com^
@@ -4108,6 +4108,7 @@
 ||freewheel.com^
 ||freewheel.tv^
 ||freezingbuilding.com^
+||frequentflesh.com^
 ||freshrelevance.com^
 ||friendwool.com^
 ||frightenedpotato.com^
@@ -4398,6 +4399,7 @@
 ||handsomehose.com^
 ||handyfield.com^
 ||handyfireman.com^
+||handyincrease.com^
 ||hanmiyong.com^
 ||hao.7654.com^
 ||hao.qquu8.com^
@@ -5206,7 +5208,6 @@
 ||labs.ra.icast.cn^
 ||lakequincy.com^
 ||lameletters.com^
-||lanistaads.com^
 ||larati.net^
 ||largebrass.com^
 ||laughablecopper.com^
@@ -8602,6 +8603,7 @@
 ||track.adwo.com^
 ||track.anchorfree.com^
 ||track.appsflyer.com^
+||track.canva.com^
 ||track.china.com^
 ||track.contently.com^
 ||track.dmrtb.com^
@@ -8770,7 +8772,6 @@
 ||trk.pinterest.com^
 ||trk.taboola.com^
 ||trk.techtarget.com^
-||trk.us-learn-teacher-poetry.xyz^
 ||trk42.net^
 ||trkn.us^
 ||trknths.com^
@@ -9164,7 +9165,6 @@
 ||volatilevessel.com^
 ||voluum.com^
 ||voluumtrk2.com^
-||volvelle.tech^
 ||voq3450129.y4j32.cn^
 ||vortex-win-sandbox.data.microsoft.com^
 ||voyagepotato.com^
