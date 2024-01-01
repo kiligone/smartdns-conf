@@ -5,6 +5,7 @@
 ||036e.cn^
 ||09_19.supfree.net^
 ||0x5.me^
+||1-1ads.com^
 ||1.1010pic.com^
 ||1.ad-locus.com^
 ||1.aili.com^
@@ -54,6 +55,7 @@
 ||245026.cc^
 ||247media.com^
 ||24log.com^
+||24log.de^
 ||24pm-affiliation.com^
 ||25c8e.admaster.com.cn^
 ||26gg.bnq86.com^
@@ -310,7 +312,6 @@
 ||aax-us-east.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
 ||aaxads.com^
-||aaxdetect.com^
 ||aazcio.cn^
 ||ab-config.propellerads.com^
 ||ab.dydab.com^
@@ -385,6 +386,7 @@
 ||ad-delivery.net^
 ||ad-ettoday.cdn.hinet.net^
 ||ad-locus.com^
+||ad-pay.de^
 ||ad-rotator.com^
 ||ad-score.com^
 ||ad-server.gulasidorna.se^
@@ -1118,7 +1120,7 @@
 ||ads.pof.com^
 ||ads.powweb.com^
 ||ads.ppvmedien.de^
-||ads.praguetv.cz^
+||ads.primissima.it^
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.program3.com^
@@ -1280,6 +1282,7 @@
 ||adscale.de^
 ||adscdn.baidu.com^
 ||adscholar.com^
+||adscience.nl^
 ||adsclick.qq.com^
 ||adsco.re^
 ||adscpm.com^
@@ -3232,7 +3235,6 @@
 ||css.bloggerads.net^
 ||ct.niu.xunlei.com^
 ||cti.w55c.net^
-||ctnetwork.hu^
 ||ctxtad.tribalfusion.com^
 ||cubiq.org^
 ||culturedcrayon.com^
@@ -3243,6 +3245,7 @@
 ||customad.cnn.com^
 ||customads.co^
 ||customers.kameleoon.com^
+||cutcurrent.com^
 ||cutechin.com^
 ||cutecushion.com^
 ||cuteturkey.com^
@@ -3262,6 +3265,8 @@
 ||d-audienceiq-atl1.turn.com^
 ||d-audienceiq-hkg1.turn.com^
 ||d-cache.microad-cn.com^
+||d-collect.jennifersoft.com^
+||d-collector.jennifersoft.com^
 ||d-test.39.net^
 ||d-track.send.microad-cn.com^
 ||d.1391.com^
@@ -4223,6 +4228,7 @@
 ||gearwom.de^
 ||gekko.spiceworks.com^
 ||gen.alicdn.com^
+||generateoffice.com^
 ||geo.digitalpoint.com^
 ||geo.flurry.com^
 ||geo.gridsumdissector.com^
@@ -4341,14 +4347,12 @@
 ||gslb.hpplay.cn^
 ||gsp0.baidu.com^
 ||gstat.bitauto.com^
-||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||guce.advertising.com^
 ||guess.tf.360.cn^
 ||guess.union2.50bang.org^
 ||guestworld.tripod.lycos.com^
-||guffawdecipher.com^
 ||guitarpro.cc^
 ||gum.criteo.com^
 ||gunggo.com^
@@ -6178,7 +6182,9 @@
 ||news.qhstatic.com^
 ||news.s9377.com^
 ||news.xueyanshan.com^
+||newsadsppush.com^
 ||newsbee.adeaz.com^
+||newsletter-link.com^
 ||newspage.xilu.com^
 ||newspush.sinajs.cn^
 ||newstarads.com^
@@ -7529,6 +7535,7 @@
 ||scaredswing.com^
 ||scarfsmash.com^
 ||scatteredheat.com^
+||scatteredquiver.com^
 ||sccdn.f2zd.com^
 ||scdown.qq.com^
 ||scene.vip.xunlei.com^
@@ -8379,7 +8386,6 @@
 ||talentedsteel.com^
 ||talk.nz.igexin.com^
 ||tamgrt.com^
-||tangerinenet.biz^
 ||tangibleteam.com^
 ||tangyamount.com^
 ||tao.37wan.com^
@@ -8459,7 +8465,6 @@
 ||testad.hot-mob.com^
 ||text-link-ads.com^
 ||textad.sexsearch.com^
-||textads.biz^
 ||textlink.simba.taobao.com^
 ||textlinks.com^
 ||tf.360.cn^
@@ -8673,7 +8678,6 @@
 ||tracking.adwo.com^
 ||tracking.babytree.com^
 ||tracking.cat898.com^
-||tracking.emilyclarkconsulting.com^
 ||tracking.epicgames.com^
 ||tracking.exipure.com^
 ||tracking.hyros.com^
