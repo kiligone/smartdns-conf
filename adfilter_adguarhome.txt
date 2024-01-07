@@ -642,7 +642,6 @@
 ||adclock.zdworks.com^
 ||adcloud.jp^
 ||adcolony.com^
-||adcomplete.com^
 ||adconion.com^
 ||adcontent.gamespy.com^
 ||adcore.lenovomm.com^
@@ -1546,7 +1545,6 @@
 ||adwasu.wasu.tv^
 ||adwebone.com^
 ||adwhirl.com^
-||adwordsecommerce.com.br^
 ||adworldnetwork.com^
 ||adworx.at^
 ||adworx.nl^
@@ -2088,7 +2086,6 @@
 ||aw.kejet.net^
 ||awakebird.com^
 ||awempire.com^
-||awesomeagreement.com^
 ||awin1.com^
 ||aws.dsp.madserving.com^
 ||awstrack.me^
@@ -2633,6 +2630,7 @@
 ||castatic.fengkongcloud.com^
 ||castplatform.com^
 ||catalog.video.msn.com^
+||cattlecommittee.com^
 ||causecherry.com^
 ||cautiouscredit.com^
 ||cb.alimama.cn^
@@ -3092,7 +3090,6 @@
 ||consequentlyinmate.com^
 ||console-audienceiq-sjc2.turn.com^
 ||contadores.miarroba.com^
-||contaxe.de^
 ||content.acc-hd.de^
 ||content.ad^
 ||content.adriver.ru^
@@ -4412,6 +4409,7 @@
 ||hao549.com^
 ||hao916.com^
 ||haostat.qihoo.com^
+||haplesshydrant.com^
 ||hardtofindmilk.com^
 ||harrenmedia.com^
 ||harrenmedianetwork.com^
@@ -6182,7 +6180,6 @@
 ||news.qhstatic.com^
 ||news.s9377.com^
 ||news.xueyanshan.com^
-||newsadsppush.com^
 ||newsbee.adeaz.com^
 ||newsletter-link.com^
 ||newspage.xilu.com^
@@ -6370,6 +6367,7 @@
 ||optnx.com^
 ||opus.analytics.yahoo.com^
 ||oredero.com^
+||orientedargument.com^
 ||origin-ads.exoclick.com^
 ||origin-mc.corel.com^
 ||origin-static.exoclick.com^
@@ -7864,6 +7862,7 @@
 ||soft.zhidian3g.cn^
 ||softclick.com.br^
 ||soggysponge.com^
+||soggyzoo.com^
 ||sohutv.m.cn.miaozhen.com^
 ||sombersea.com^
 ||sombersquirrel.com^
@@ -8162,6 +8161,7 @@
 ||steadfastsystem.com^
 ||steelhouse.com^
 ||steelhousemedia.com^
+||steepscale.com^
 ||stenadewy.pro^
 ||stepplane.com^
 ||stickssheep.com^
