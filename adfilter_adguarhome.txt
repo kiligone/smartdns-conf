@@ -30,7 +30,6 @@
 ||168.it168.com^
 ||17.huanqiu.com^
 ||180hits.de^
-||180searchassistant.com^
 ||181ue.com^
 ||1link2020.com^
 ||1rx.io^
@@ -642,6 +641,7 @@
 ||adclock.zdworks.com^
 ||adcloud.jp^
 ||adcolony.com^
+||adcomplete.com^
 ||adconion.com^
 ||adcontent.gamespy.com^
 ||adcore.lenovomm.com^
@@ -1119,7 +1119,6 @@
 ||ads.pof.com^
 ||ads.powweb.com^
 ||ads.ppvmedien.de^
-||ads.primissima.it^
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.program3.com^
@@ -1502,7 +1501,6 @@
 ||adv.livedoor.com^
 ||adv.madserving.com^
 ||adv.mpvc.it^
-||adv.neverbuy.com^
 ||adv.nexthardware.com^
 ||adv.s8bbs.com^
 ||adv.sec.miui.com^
@@ -2073,7 +2071,6 @@
 ||augur.io^
 ||ausoafab.net^
 ||author.bloggerads.net^
-||auto-bannertausch.de^
 ||autobild.adsame.com^
 ||automaticflock.com^
 ||av.u5m4.cn^
@@ -3935,7 +3932,6 @@
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
-||exchangedetail.com^
 ||exclusivebrass.com^
 ||exelate.com^
 ||exelator.com^
@@ -4395,6 +4391,7 @@
 ||habitualhumor.com^
 ||haitaoad.nosdn.127.net^
 ||haiwai-ic.ksosoft.com^
+||halcyoncanyon.com^
 ||haltingbadge.com^
 ||hammerhearing.com^
 ||handsomehose.com^
@@ -5747,7 +5744,6 @@
 ||max.i12.de^
 ||max.mediav.com^
 ||maximiser.net^
-||maximumcash.com^
 ||maxonclick.com^
 ||maxsys.adsame.com^
 ||maxwebsearch.com^
@@ -7180,7 +7176,6 @@
 ||roar.com^
 ||robotreplay.com^
 ||rockabox.co^
-||roia.biz^
 ||rok.com.com^
 ||rollconnection.com^
 ||rose.ixbt.com^
@@ -7494,6 +7489,7 @@
 ||same.eastmoney.com^
 ||same.stockstar.com^
 ||sammix.adsame.com^
+||samplesamba.com^
 ||samrt.adsame.com^
 ||sams.nikonimaging.com^
 ||samsungacr.com^
@@ -7549,6 +7545,7 @@
 ||scratch2cash.com^
 ||screechingfurniture.com^
 ||screechingslip.com^
+||screechingstocking.com^
 ||screechingstove.com^
 ||screenshot.ninebox.cn^
 ||script-bd.baixing.net^
@@ -10070,6 +10067,7 @@
 ||zencudo.co.uk^
 ||zenkreka.com^
 ||zenzuu.com^
+||zephyrlabyrinth.com^
 ||zeus.ad.xiaomi.com^
 ||zeus.developershed.com^
 ||zeusclicks.com^
