@@ -320,7 +320,6 @@
 ||abacho.net^
 ||abackafterthought.com^
 ||abackchain.com^
-||abackframe.com^
 ||abandonedaction.com^
 ||abbyychina.com^
 ||abc-ads.com^
@@ -1438,7 +1437,6 @@
 ||adsrvmedia.adk2x.com^
 ||adsrvr.org^
 ||adstacks.in^
-||adstanding.com^
 ||adstat.4u.pl^
 ||adstest.weather.com^
 ||adstextview.qq.com^
@@ -2353,6 +2351,7 @@
 ||binaryage-leechgate.herokuapp.com^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
+||birthdaybelief.com^
 ||bite.theta.sogoucdn.com^
 ||bitmedianetwork.com^
 ||biz.live.xunlei.com^
@@ -3056,6 +3055,7 @@
 ||completecabbage.com^
 ||complextoad.com^
 ||comprabanner.it^
+||concernedchange.com^
 ||concernedcondition.com^
 ||conde.adsame.com^
 ||conditionchange.com^
@@ -3407,7 +3407,6 @@
 ||de.pandora.xiaomi.com^
 ||de17a.com^
 ||deadpangate.com^
-||deadpanmarble.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -3815,7 +3814,6 @@
 ||eladies.zhmyq.cn^
 ||eland.doublemax.net^
 ||elasticchange.com^
-||elasticducks.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
 ||elephantqueue.com^
@@ -3932,6 +3930,7 @@
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
+||exchangedetail.com^
 ||exclusivebrass.com^
 ||exelate.com^
 ||exelator.com^
@@ -6176,6 +6175,7 @@
 ||news.qhstatic.com^
 ||news.s9377.com^
 ||news.xueyanshan.com^
+||newsadsppush.com^
 ||newsbee.adeaz.com^
 ||newsletter-link.com^
 ||newspage.xilu.com^
@@ -6659,6 +6659,7 @@
 ||pl14369502.puserving.com^
 ||placed.com^
 ||placeframe.com^
+||placidactivity.com^
 ||plat.videojj.com^
 ||plausibleio.workers.dev^
 ||play-vids.com^
@@ -6713,6 +6714,7 @@
 ||position.dftoutiao.com^
 ||possessivebucket.com^
 ||possibleboats.com^
+||possiblepencil.com^
 ||post.ra.icast.cn^
 ||post.spmailtechno.com^
 ||postback.iqm.com^
@@ -6945,7 +6947,6 @@
 ||quantummetric.com^
 ||quarterbean.com^
 ||quarterserver.de^
-||questaffiliates.net^
 ||quickkoala.io^
 ||quicksandear.com^
 ||quietknowledge.com^
@@ -7599,7 +7600,6 @@
 ||seadform.net^
 ||searchmarketing.com^
 ||searchramp.com^
-||seashoreturn.com^
 ||seavideo-ak.espn.go.com^
 ||secgw-na61-na62.wagbridge.advertisement.tanx.com^
 ||secre.jp^
@@ -9990,7 +9990,6 @@
 ||yiqitiao.chushoushijian.cn^
 ||yktd.m.cn.miaozhen.com^
 ||ylads.yaolan.com^
-||yldbt.com^
 ||ylog.hiido.com^
 ||ylunion.com^
 ||ym.adnxs.com^
