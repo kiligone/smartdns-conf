@@ -30,6 +30,7 @@
 ||168.it168.com^
 ||17.huanqiu.com^
 ||180hits.de^
+||180searchassistant.com^
 ||181ue.com^
 ||1link2020.com^
 ||1rx.io^
@@ -290,7 +291,6 @@
 ||a5.overclockers.ua^
 ||a751.oadz.com^
 ||a7961.com^
-||a8a8altrk.com^
 ||a9.xlgqy.com^
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.recruit-card.jp^
@@ -320,6 +320,7 @@
 ||abacho.net^
 ||abackafterthought.com^
 ||abackchain.com^
+||abackframe.com^
 ||abandonedaction.com^
 ||abbyychina.com^
 ||abc-ads.com^
@@ -499,7 +500,6 @@
 ||ad.nachtagenten.de^
 ||ad.naver.com^
 ||ad.nettvservices.com^
-||ad.nozonedata.com^
 ||ad.nttnavi.co.jp^
 ||ad.nwt.cz^
 ||ad.obuy.tw^
@@ -1002,7 +1002,6 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
-||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gionee.com^
 ||ads.gld.dk^
@@ -1022,7 +1021,6 @@
 ||ads.heartlight.org^
 ||ads.hollywood.com^
 ||ads.horsehero.com^
-||ads.horyzon-media.com^
 ||ads.house365.com^
 ||ads.hsoub.com^
 ||ads.huan.tv^
@@ -1437,6 +1435,7 @@
 ||adsrvmedia.adk2x.com^
 ||adsrvr.org^
 ||adstacks.in^
+||adstanding.com^
 ||adstat.4u.pl^
 ||adstest.weather.com^
 ||adstextview.qq.com^
@@ -1586,7 +1585,6 @@
 ||affili.net^
 ||affiliate.1800flowers.com^
 ||affiliate.dtiserv.com^
-||affiliate.gamestop.com^
 ||affiliate.rusvpn.com^
 ||affiliate.travelnow.com^
 ||affiliate.treated.com^
@@ -2160,12 +2158,10 @@
 ||banner.nixnet.cz^
 ||banner.noblepoker.com^
 ||banner.northsky.com^
-||banner.penguin.cz^
 ||banner.rbc.ru^
 ||banner.reinstil.de^
 ||banner.tanto.de^
 ||banner.titan-dsl.de^
-||banner.webmersion.com^
 ||banner10.zetasystem.dk^
 ||bannerads.de^
 ||banneras.admaster.com.cn^
@@ -3407,6 +3403,7 @@
 ||de.pandora.xiaomi.com^
 ||de17a.com^
 ||deadpangate.com^
+||deadpanmarble.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -3472,7 +3469,6 @@
 ||digitalmerkat.com^
 ||dip.wl963.com^
 ||direct-events-collector.spot.im^
-||direct-xxx-access.com^
 ||direct.adperium.com^
 ||directaclick.com^
 ||directleads.com^
@@ -3814,6 +3810,7 @@
 ||eladies.zhmyq.cn^
 ||eland.doublemax.net^
 ||elasticchange.com^
+||elasticducks.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
 ||elephantqueue.com^
@@ -3843,6 +3840,7 @@
 ||encouragingwilderness.com^
 ||endurableshop.com^
 ||energeticladybug.com^
+||engage.tines.com^
 ||engage.windows.com^
 ||engagebdr.com^
 ||engageya.com^
@@ -4331,6 +4329,7 @@
 ||greetzebra.com^
 ||greyinstrument.com^
 ||greystripe.com^
+||grouchybrothers.com^
 ||groundtruth.com^
 ||growingio.com^
 ||growth-support.applovin.com^
@@ -4339,6 +4338,7 @@
 ||gslb.hpplay.cn^
 ||gsp0.baidu.com^
 ||gstat.bitauto.com^
+||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||guce.advertising.com^
@@ -5020,6 +5020,8 @@
 ||js-1.pchome.net^
 ||js-agent.newrelic.com^
 ||js-apac-ss.ysm.yahoo.com^
+||js-api.otherlevels.com^
+||js-tags.otherlevels.com^
 ||js.133u.com^
 ||js.1688988.com^
 ||js.2011.8684.com^
@@ -6193,12 +6195,12 @@
 ||nfh.cnshef.com^
 ||ng3.ads.warnerbros.com^
 ||ngads.go.com^
-||nhpfvdlbjg.com^
 ||nhz.adwo.com^
 ||ninemsn.imrworldwide.com^
 ||nitroclicks.com^
 ||nlog.baidu.com^
 ||noble55.com^
+||nocturnalloom.com^
 ||noiselessplough.com^
 ||nondescriptcrowd.com^
 ||nondescriptnote.com^
@@ -6447,7 +6449,6 @@
 ||p215223.clksite.com^
 ||p215223.inclk.com^
 ||p215223.mycdn2.co^
-||p2r14.com^
 ||p3.l.qq.com^
 ||p3p.mmstat.com^
 ||p3p.sogou.com^
@@ -7217,7 +7218,6 @@
 ||rtbadzesto.com^
 ||rtbbnr.com^
 ||rtbflairads.com^
-||rtbidhost.com^
 ||rtbplatform.net^
 ||rtbpop.com^
 ||rtbpopd.com^
@@ -7600,6 +7600,7 @@
 ||seadform.net^
 ||searchmarketing.com^
 ||searchramp.com^
+||seashoreturn.com^
 ||seavideo-ak.espn.go.com^
 ||secgw-na61-na62.wagbridge.advertisement.tanx.com^
 ||secre.jp^
@@ -8462,6 +8463,7 @@
 ||testad.hot-mob.com^
 ||text-link-ads.com^
 ||textad.sexsearch.com^
+||textads.biz^
 ||textlink.simba.taobao.com^
 ||textlinks.com^
 ||tf.360.cn^
@@ -8676,7 +8678,6 @@
 ||tracking.babytree.com^
 ||tracking.cat898.com^
 ||tracking.epicgames.com^
-||tracking.exipure.com^
 ||tracking.hyros.com^
 ||tracking.ibxlink.com^
 ||tracking.intentsify.io^
@@ -9990,6 +9991,7 @@
 ||yiqitiao.chushoushijian.cn^
 ||yktd.m.cn.miaozhen.com^
 ||ylads.yaolan.com^
+||yldbt.com^
 ||ylog.hiido.com^
 ||ylunion.com^
 ||ym.adnxs.com^
