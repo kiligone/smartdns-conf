@@ -55,7 +55,6 @@
 ||245026.cc^
 ||247media.com^
 ||24log.com^
-||24log.de^
 ||24pm-affiliation.com^
 ||25c8e.admaster.com.cn^
 ||26gg.bnq86.com^
@@ -2067,6 +2066,7 @@
 ||augur.io^
 ||ausoafab.net^
 ||author.bloggerads.net^
+||auto-bannertausch.de^
 ||autobild.adsame.com^
 ||automaticflock.com^
 ||av.u5m4.cn^
@@ -4094,7 +4094,6 @@
 ||freecodecs.us.intellitxt.com^
 ||freecounterstat.com^
 ||freelogs.com^
-||freeonlineusers.com^
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
@@ -5107,6 +5106,7 @@
 ||jssdk.cnzz.com^
 ||jsw.xz6d.com^
 ||jtug.code.poyang.com^
+||jubilantglimmer.com^
 ||juicyads.com^
 ||juicyads.me^
 ||jump.001union.com^
@@ -6989,7 +6989,6 @@
 ||rabc2.iteye.com^
 ||rad.reporo.net^
 ||radar.cedexis.com^
-||radarurl.com^
 ||raddus.bayescom.com^
 ||radiate.com^
 ||radiateprose.com^
@@ -8741,6 +8740,7 @@
 ||tran.mediav.com^
 ||tran.news.so.com^
 ||tranquilcanyon.com^
+||tranquilplume.com^
 ||tranquilside.com^
 ||travis.bosscasinos.com^
 ||traytouch.com^
