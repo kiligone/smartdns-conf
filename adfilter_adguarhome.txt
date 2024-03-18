@@ -32,7 +32,6 @@
 ||180hits.de^
 ||180searchassistant.com^
 ||181ue.com^
-||1link2020.com^
 ||1rx.io^
 ||2.1010pic.com^
 ||2.92caijing.com^
@@ -55,7 +54,6 @@
 ||245026.cc^
 ||247media.com^
 ||24log.com^
-||24pm-affiliation.com^
 ||25c8e.admaster.com.cn^
 ||26gg.bnq86.com^
 ||272829.cc^
@@ -319,7 +317,6 @@
 ||abacho.net^
 ||abackafterthought.com^
 ||abackchain.com^
-||abackframe.com^
 ||abandonedaction.com^
 ||abbyychina.com^
 ||abc-ads.com^
@@ -1124,7 +1121,6 @@
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
-||ads.rcs.it^
 ||ads.reader.yueyouxs.com^
 ||ads.recoletos.es^
 ||ads.rediff.com^
@@ -1323,7 +1319,6 @@
 ||adserver.echdk.pl^
 ||adserver.friendfinder.com^
 ||adserver.generationiron.com^
-||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
 ||adserver.industryarena.com^
@@ -1590,7 +1585,6 @@
 ||affiliatefuture.com^
 ||affiliategroove.com^
 ||affiliates.allposters.com^
-||affiliates.babylon.com^
 ||affiliates.digitalriver.com^
 ||affiliates.globat.com^
 ||affiliates.rozetka.com.ua^
@@ -1669,7 +1663,6 @@
 ||all.orfr.adgtw.orangeads.fr^
 ||all.rising.com.cn^
 ||all4spy.com^
-||allosponsor.com^
 ||alluringbucket.com^
 ||allyes.com^
 ||alog.umeng.com^
@@ -2142,7 +2135,6 @@
 ||banner.ambercoastcasino.com^
 ||banner.as.admaster.com.cn^
 ||banner.buempliz-online.ch^
-||banner.casino.net^
 ||banner.cotedazurpalace.com^
 ||banner.coza.com^
 ||banner.cz^
@@ -3403,7 +3395,6 @@
 ||de.pandora.xiaomi.com^
 ||de17a.com^
 ||deadpangate.com^
-||deadpanmarble.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -3810,7 +3801,6 @@
 ||eladies.zhmyq.cn^
 ||eland.doublemax.net^
 ||elasticchange.com^
-||elasticducks.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
 ||elephantqueue.com^
@@ -3928,7 +3918,6 @@
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
-||exchangedetail.com^
 ||exclusivebrass.com^
 ||exelate.com^
 ||exelator.com^
@@ -3942,7 +3931,6 @@
 ||experianmarketingservices.digital^
 ||experiment.appadhoc.com^
 ||explorads.com^
-||expmediadirect1.com^
 ||exponea.com^
 ||exponential.com^
 ||express-submit.de^
@@ -4087,7 +4075,6 @@
 ||frailflock.com^
 ||frailoffer.com^
 ||frame.enet.com.cn^
-||free-banners.com^
 ||free-counter.co.uk^
 ||free.aol.com^
 ||freebanner.com^
@@ -4964,7 +4951,6 @@
 ||jack.okkkk.com^
 ||jadeitite.com^
 ||jads.co^
-||jaizouji.com^
 ||jauchuwa.net^
 ||jb.4hw.com.cn^
 ||jb.asqql.com^
@@ -6131,6 +6117,7 @@
 ||ndm-onead.cdn.hinet.net^
 ||ndparking.com^
 ||ne.1rtb.com^
+||nebulacrescent.com^
 ||nedstatbasic.net^
 ||needlessnorth.com^
 ||needyneedle.com^
@@ -6753,7 +6740,6 @@
 ||prism-report-ddd.dreport.meituan.net^
 ||privatecash.com^
 ||prmtracking.com^
-||pro-advertising.com^
 ||pro-market.net^
 ||pro.baidu.com^
 ||pro.cn^
@@ -7037,7 +7023,6 @@
 ||rd.wan.360.cn^
 ||rdstat.tanx.com^
 ||rdx.autohome.com.cn^
-||re-directme.com^
 ||re.m.taobao.com^
 ||re.taobao.com^
 ||reachjunction.com^
@@ -7599,7 +7584,6 @@
 ||seadform.net^
 ||searchmarketing.com^
 ||searchramp.com^
-||seashoreturn.com^
 ||seavideo-ak.espn.go.com^
 ||secgw-na61-na62.wagbridge.advertisement.tanx.com^
 ||secre.jp^
@@ -7928,7 +7912,6 @@
 ||spro.so.com^
 ||spulse.net^
 ||spurioussteam.com^
-||spykemediatrack.com^
 ||spylog.com^
 ||spywarelabs.com^
 ||spywords.com^
