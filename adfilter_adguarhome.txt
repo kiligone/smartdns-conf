@@ -32,6 +32,7 @@
 ||180hits.de^
 ||180searchassistant.com^
 ||181ue.com^
+||1link2020.com^
 ||1rx.io^
 ||2.1010pic.com^
 ||2.92caijing.com^
@@ -54,6 +55,7 @@
 ||245026.cc^
 ||247media.com^
 ||24log.com^
+||24pm-affiliation.com^
 ||25c8e.admaster.com.cn^
 ||26gg.bnq86.com^
 ||272829.cc^
@@ -1407,7 +1409,6 @@
 ||adsmoloco.com^
 ||adsnative.com^
 ||adsoftware.com^
-||adsoldier.com^
 ||adsolut.in^
 ||adsolution.imtt.qq.com^
 ||adson.awempire.com^
@@ -1463,7 +1464,6 @@
 ||adtest.agrantsem.com^
 ||adthis.com^
 ||adthrive.com^
-||adthurst.com^
 ||adtiger.de^
 ||adtilt.com^
 ||adtng.com^
@@ -1585,6 +1585,7 @@
 ||affiliatefuture.com^
 ||affiliategroove.com^
 ||affiliates.allposters.com^
+||affiliates.babylon.com^
 ||affiliates.digitalriver.com^
 ||affiliates.globat.com^
 ||affiliates.rozetka.com.ua^
@@ -7209,7 +7210,6 @@
 ||rtlog.vidown.cn^
 ||rtmark.net^
 ||rto.steelhousemedia.com^
-||rtpdn11.com^
 ||rtxplatform.com^
 ||ru-gmtdmp.mookie1.com^
 ||ru4.com^
@@ -8206,7 +8206,6 @@
 ||supertop100.com^
 ||supply.colossusssp.com^
 ||supportwaves.com^
-||surfmusik-adserver.de^
 ||survey.admaster.com.cn^
 ||survey.watson.microsoft.com^
 ||surveygizmobeacon.s3.amazonaws.com^
@@ -8223,7 +8222,6 @@
 ||swappdl.duoyi.com^
 ||swimslope.com^
 ||swingslip.com^
-||swordfishdc.com^
 ||swordgoose.com^
 ||sws.corel.com^
 ||sx.adm.adeaz.com^
