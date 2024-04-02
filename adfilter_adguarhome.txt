@@ -1119,7 +1119,6 @@
 ||ads.program3.com^
 ||ads.psd2html.com^
 ||ads.pubmatic.com^
-||ads.quasaraffiliates.com^
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
@@ -1489,7 +1488,6 @@
 ||adv.freeonline.it^
 ||adv.hwupgrade.it^
 ||adv.jxnews.com.cn^
-||adv.livedoor.com^
 ||adv.madserving.com^
 ||adv.mpvc.it^
 ||adv.nexthardware.com^
@@ -2819,6 +2817,7 @@
 ||click.email.microsoftemail.com^
 ||click.email.sonos.com^
 ||click.email.strawberry.no^
+||click.emails.argos.co.uk^
 ||click.fool.com^
 ||click.gamersky.com^
 ||click.ganji.com^
@@ -8206,6 +8205,7 @@
 ||supertop100.com^
 ||supply.colossusssp.com^
 ||supportwaves.com^
+||surfmusik-adserver.de^
 ||survey.admaster.com.cn^
 ||survey.watson.microsoft.com^
 ||surveygizmobeacon.s3.amazonaws.com^
