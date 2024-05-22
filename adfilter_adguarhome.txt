@@ -1242,6 +1242,7 @@
 ||ads20.adcolony.com^
 ||ads2004.treiberupdate.de^
 ||ads24h.net^
+||ads3-adnow.com^
 ||ads3.contentabc.com^
 ||ads3.gamecity.net^
 ||ads3.virtual-nights.com^
@@ -1984,7 +1985,6 @@
 ||ark.letv.com^
 ||aromamirror.com^
 ||art.theta.sogoucdn.com^
-||artisany.net^
 ||as.aplus.pptv.com^
 ||as.bjmama.net^
 ||as.casalemedia.com^
@@ -3961,7 +3961,6 @@
 ||farethief.com^
 ||farmergoldfish.com^
 ||fascinatedfeather.com^
-||fast-redirecting.com^
 ||fastclick.com^
 ||fastclick.com.edgesuite.net^
 ||fastclick.net^
@@ -5678,7 +5677,6 @@
 ||marketing.888.com^
 ||marketing.desertcart.com^
 ||marketing.etouch.cn^
-||marketing.hearstmagazines.nl^
 ||marketing.net.brillen.de^
 ||marketing.net.home24.de^
 ||marketing.net.occhiali24.it^
@@ -6759,7 +6757,6 @@
 ||props.id^
 ||prosper.on-line-casino.ca^
 ||protectcrev.com^
-||protectivemetrics.com^
 ||protectsubrev.com^
 ||protestcopy.com^
 ||proton-int.flurry.com^
@@ -6861,7 +6858,6 @@
 ||px.gfycat.com^
 ||px.owneriq.net^
 ||px.qucaigg.com^
-||px.spiceworks.com^
 ||px.steelhousemedia.com^
 ||pxf.io^
 ||pxl-mailtracker.com^
@@ -8120,7 +8116,6 @@
 ||steelhousemedia.com^
 ||steepscale.com^
 ||stenadewy.pro^
-||stepplane.com^
 ||stickssheep.com^
 ||stickyadstv.com^
 ||stiffgame.com^
@@ -8499,7 +8494,6 @@
 ||tnc3-aliec2.snssdk.com^
 ||tnkexchange.com^
 ||tns-counter.ru^
-||tntclix.co.uk^
 ||toateeli.net^
 ||tob-cms.bj.bcebos.com^
 ||toblog.ctobsnssdk.com^
@@ -8535,6 +8529,7 @@
 ||toplista.mw.hu^
 ||toplistcity.com^
 ||topsir.com^
+||topsite.lv^
 ||topsites.com.br^
 ||topstats.com^
 ||toruk.gds.tanx.com^
