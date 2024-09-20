@@ -682,6 +682,7 @@
 ||adhese.be^
 ||adhese.com^
 ||adhigh.net^
+||adhoc4.net^
 ||adhunter.media^
 ||adi.bigmir.net^
 ||adi.cnool.net^
@@ -2044,6 +2045,7 @@
 ||axiomaticalley.com^
 ||axonix.com^
 ||ay.delivery^
+||ayads.co^
 ||ayidaye.m.zwdu.com^
 ||azarlive-branch.vsohu.admaster.com.cn^
 ||aztracking.net^
@@ -2532,7 +2534,6 @@
 ||canvas.gdt.qq.com^
 ||cap.cyberlink.com^
 ||cap.touclick.com^
-||capablecows.com^
 ||capriciouscorn.com^
 ||captainbicycle.com^
 ||car.mobadme.jp^
@@ -4062,6 +4063,7 @@
 ||g1.163.com^
 ||g1max.mediav.com^
 ||g1xd.mediav.com^
+||g2.gumgum.com^
 ||g3.iqilu.com^
 ||g3.letv.com^
 ||g4.iqilu.com^
@@ -4734,6 +4736,7 @@
 ||install.365-stream.com^
 ||install.kugou.com^
 ||install.sidesearch.lycos.com^
+||instantmadness.com^
 ||insticator.com^
 ||inte.sogou.com^
 ||inte.theta.sogoucdn.com^
@@ -5091,6 +5094,7 @@
 ||leadclick.com^
 ||leadinfo.net^
 ||leadingedgecash.com^
+||leadplace.fr^
 ||leadspace.com^
 ||leadzupc.com^
 ||leaplunchroom.com^
@@ -5660,6 +5664,7 @@
 ||mediascale.de^
 ||mediaserver.bwinpartypartners.it^
 ||mediasmart.io^
+||mediasquare.fr^
 ||mediatext.com^
 ||mediavine.com^
 ||mediavoice.com^
@@ -6126,6 +6131,7 @@
 ||offermatica.com^
 ||offline-adv.oray.com^
 ||ofnumeltor.com^
+||ogads-pa.googleapis.com^
 ||oglasi.posjetnica.com^
 ||ogury.com^
 ||ojrq.net^
@@ -6304,6 +6310,7 @@
 ||p7.95558000.com^
 ||p8.95558000.com^
 ||p8u.hinet.net^
+||paa-reporting-advertising.amazon^
 ||pacaio.match.qq.com^
 ||package.minghui.org^
 ||pad.zhywyl.cn^
@@ -6584,7 +6591,6 @@
 ||presetrabbits.com^
 ||preview.adsame.com^
 ||previousplayground.com^
-||previouspotato.com^
 ||prf.hn^
 ||priceypies.com^
 ||pricklydebt.com^
@@ -6981,6 +6987,7 @@
 ||rhombusads.com^
 ||rhythmone.com^
 ||rich.kuwo.cn^
+||richaudience.com^
 ||richmails.com^
 ||richstring.com^
 ||rigel.baidustatic.com^
@@ -7759,6 +7766,7 @@
 ||ssh.hbhtbn.com^
 ||ssh.q4hwkg.cn^
 ||sshowads.pubmatic.com^
+||sskzlabs.com^
 ||ssl-cdn.media.innity.net^
 ||ssl.bbbr8.com^
 ||ssl2.gdqifang.com^
@@ -9075,7 +9083,6 @@
 ||webtraffic.se^
 ||webtraxx.de^
 ||webtrends.yccdn.com^
-||webtrendslive.com^
 ||webxcdn.com^
 ||weixin.renrenying.com^
 ||weizjzg.com^
@@ -9876,7 +9883,6 @@
 ||ztrpm.lu.sogou.com^
 ||ztyumn.ifeng.com^
 ||zuimeitianqi.inveno.com^
-||zukxd6fkxqn.com^
 ||zvs1.cnzz.com^
 ||zvs2.cnzz.com^
 ||zx.docin.com^
