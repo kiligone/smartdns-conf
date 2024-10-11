@@ -443,7 +443,6 @@
 ||ad.exyws.org^
 ||ad.flipboard.com^
 ||ad.flurry.com^
-||ad.foxnetworks.com^
 ||ad.funp.com^
 ||ad.gamebox.360.cn^
 ||ad.gametower.com.tw^
@@ -658,7 +657,6 @@
 ||adetracking.com^
 ||adeure.com^
 ||adeventtracker.spotify.com^
-||adexc.net^
 ||adexchangegate.com^
 ||adexchangeprediction.com^
 ||adexpose.com^
@@ -859,7 +857,6 @@
 ||ads-verify.flurry.com^
 ||ads-wc.adaptv.advertising.com^
 ||ads.365.mk^
-||ads.4tube.com^
 ||ads.5ci.lt^
 ||ads.73dpi.com^
 ||ads.a-snag-smartmoney.fyi^
@@ -876,6 +873,7 @@
 ||ads.admarvel.com^
 ||ads.administrator.de^
 ||ads.adred.de^
+||ads.adsbtc.fun^
 ||ads.adstream.com.ro^
 ||ads.adultfriendfinder.com^
 ||ads.advance.net^
@@ -899,7 +897,6 @@
 ||ads.avazu.net^
 ||ads.b10f.jp^
 ||ads.bb59.ru^
-||ads.belointeractive.com^
 ||ads.betfair.com^
 ||ads.bigchurch.com^
 ||ads.bigfoot.com^
@@ -983,7 +980,6 @@
 ||ads.formit.cz^
 ||ads.fortunecity.com^
 ||ads.fotosidan.se^
-||ads.foxnetworks.com^
 ||ads.friendfinder.com^
 ||ads.gamecity.net^
 ||ads.gamespyid.com^
@@ -1220,7 +1216,6 @@
 ||ads2.net-communities.co.uk^
 ||ads2.opensubtitles.org^
 ||ads2.rne.com^
-||ads2.techads.info^
 ||ads2.virtual-nights.com^
 ||ads2.webdrive.no^
 ||ads2.xnet.cz^
@@ -1509,7 +1504,6 @@
 ||advnt.com^
 ||advombat.ru^
 ||adwasu.wasu.tv^
-||adwebone.com^
 ||adwhirl.com^
 ||adworldnetwork.com^
 ||adworx.at^
@@ -2807,6 +2801,7 @@
 ||click2freemoney.com^
 ||click360v2-ingest.azurewebsites.net^
 ||click3forhz.adsmogo.com^
+||clickadddilla.com^
 ||clickadu.com^
 ||clickadz.com^
 ||clickagents.com^
@@ -2985,7 +2980,6 @@
 ||comparereaction.com^
 ||compiledoctor.com^
 ||comprabanner.it^
-||concernedchange.com^
 ||conde.adsame.com^
 ||conditionchange.com^
 ||conductrics.com^
@@ -3157,13 +3151,11 @@
 ||cti.w55c.net^
 ||ctxtad.tribalfusion.com^
 ||cubiq.org^
-||cumbersomecloud.com^
 ||curtaincows.com^
 ||cushiondrum.com^
 ||customad.cnn.com^
 ||customads.co^
 ||customers.kameleoon.com^
-||cutcurrent.com^
 ||cutechin.com^
 ||cvda.17173.com^
 ||cvt.mydas.mobi^
@@ -3397,6 +3389,7 @@
 ||display.360totalsecurity.com^
 ||display.ad.daum.net^
 ||display.adhudong.com^
+||displayvertising.com^
 ||disqusads.com^
 ||dist.belnk.com^
 ||dist.bpc.ad-stir.com^
@@ -4116,6 +4109,7 @@
 ||getclicky.com^
 ||getintent.com^
 ||getmyads.com^
+||getxmlisi.com^
 ||gfd.huigoushop.com^
 ||gfyoyo.adpolestar.net^
 ||gg.1whour.com^
@@ -4196,6 +4190,7 @@
 ||gostats.com^
 ||gothamads.com^
 ||goto.sogou.com^
+||gotoyahoo.com^
 ||gotraffic.net^
 ||gozendata.com^
 ||gp.dejanews.com^
@@ -5174,6 +5169,7 @@
 ||listlog.baofeng.net^
 ||litix.io^
 ||live-ifs.tanx.com^
+||live.trmzum.com^
 ||live.xunlei.com^
 ||liveadexchanger.com^
 ||livec.l.qq.com^
@@ -5528,6 +5524,7 @@
 ||madvertise.de^
 ||magicadz.co^
 ||magicaljoin.com^
+||magsrv.com^
 ||mail-ad1.hisys.hinet.net^
 ||mail-ad2.hisys.hinet.net^
 ||mail-ad3.hisys.hinet.net^
@@ -5682,6 +5679,7 @@
 ||meltmilk.com^
 ||memorizeneck.com^
 ||meo257na3rch.com^
+||merequartz.com^
 ||messagenovice.com^
 ||met-badge.dreport.meituan.net^
 ||metadsp.co.uk^
@@ -6781,7 +6779,6 @@
 ||qr.coocaa.com^
 ||qrlsx.com^
 ||qstore.inner.api.sj.360.cn^
-||quacksquirrel.com^
 ||quaintcan.com^
 ||quanjing.cnzz.com^
 ||quantcast.com^
@@ -7014,6 +7011,7 @@
 ||roar.com^
 ||robotreplay.com^
 ||rockabox.co^
+||rockagainst.com^
 ||rok.com.com^
 ||rollconnection.com^
 ||rose.ixbt.com^
@@ -7362,7 +7360,6 @@
 ||scaredswing.com^
 ||scarfsmash.com^
 ||scatteredheat.com^
-||scatteredquiver.com^
 ||sccdn.f2zd.com^
 ||scdown.qq.com^
 ||scene.vip.xunlei.com^
@@ -7967,7 +7964,6 @@
 ||steadfastsystem.com^
 ||steelhouse.com^
 ||steelhousemedia.com^
-||steepscale.com^
 ||stenadewy.pro^
 ||stickyadstv.com^
 ||stiffgame.com^
@@ -8168,7 +8164,6 @@
 ||tag.admaster.com.cn^
 ||tag.cdnmaster.cn^
 ||tag.digitaltarget.ru^
-||tag.links-analytics.com^
 ||tag.mention-me.com^
 ||tag.sp.advertising.com^
 ||tagcommander.com^
@@ -8277,7 +8272,6 @@
 ||theadex.com^
 ||theadhost.com^
 ||thebugs.ws^
-||theclickads.com^
 ||thefatherofsalmon.com^
 ||themoneytizer.com^
 ||therapistla.com^
@@ -8450,14 +8444,12 @@
 ||tracker.samplicio.us^
 ||tracker.taboola.com^
 ||tracker.tgbus.com^
-||tracker.vgame.us^
 ||tracker.yhd.com^
 ||tracker1.zmzfile.com^
 ||tracker2.zmzfile.com^
 ||tracker3.zmzfile.com^
 ||tracker4.zmzfile.com^
 ||tracker5.zmzfile.com^
-||tracking.21-a4652-bi.co.uk^
 ||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
 ||tracking.42-01pr5-osm-secure.co.uk^
@@ -8942,7 +8934,6 @@
 ||vodlog.m1905.cn^
 ||vodpic.320down.club^
 ||voicefive.com^
-||voicelessvein.com^
 ||voila.refr.adgtw.orangeads.fr^
 ||volatilevessel.com^
 ||voluum.com^
