@@ -511,7 +511,6 @@
 ||ad.seeyouyima.com^
 ||ad.sensismediasmart.com.au^
 ||ad.shepard.ad-stir.com^
-||ad.simflight.com^
 ||ad.simgames.net^
 ||ad.sinovision.net^
 ||ad.sohu.com^
@@ -611,7 +610,6 @@
 ||adbroker.de^
 ||adbunker.com^
 ||adbutler.com^
-||adbuyer.com^
 ||adbuyer3.lycos.com^
 ||adcampo.com^
 ||adcannyads.com^
@@ -657,6 +655,7 @@
 ||adetracking.com^
 ||adeure.com^
 ||adeventtracker.spotify.com^
+||adexc.net^
 ||adexchangegate.com^
 ||adexchangeprediction.com^
 ||adexpose.com^
@@ -1347,7 +1346,6 @@
 ||adsfac.eu^
 ||adsfac.net^
 ||adsfac.us^
-||adsfactor.net^
 ||adsfeed.brabys.com^
 ||adsfile.qq.com^
 ||adsfs.oppomobile.com^
@@ -1457,7 +1455,6 @@
 ||adv-ettoday.cdn.hinet.net^
 ||adv.aiclk.com^
 ||adv.app.qq.com^
-||adv.cooperhosting.net^
 ||adv.donejty.pl^
 ||adv.fjtv.net^
 ||adv.freeonline.it^
@@ -1504,6 +1501,7 @@
 ||advnt.com^
 ||advombat.ru^
 ||adwasu.wasu.tv^
+||adwebone.com^
 ||adwhirl.com^
 ||adworldnetwork.com^
 ||adworx.at^
@@ -2275,7 +2273,6 @@
 ||bidclix.com^
 ||bidclix.net^
 ||bidr.io^
-||bidsopt.com^
 ||bidswitch.net^
 ||bidtellect.com^
 ||bidvertiser.com^
@@ -2528,6 +2525,7 @@
 ||canvas.gdt.qq.com^
 ||cap.cyberlink.com^
 ||cap.touclick.com^
+||capablecows.com^
 ||capriciouscorn.com^
 ||captainbicycle.com^
 ||car.mobadme.jp^
@@ -2733,6 +2731,7 @@
 ||clck.ru^
 ||clenchedyouthmatching.com^
 ||clevernt.com^
+||click-2.eu^
 ||click.ad-stir.com^
 ||click.admaster.com.cn^
 ||click.adperium.com^
@@ -2973,13 +2972,13 @@
 ||comfortablecheese.com^
 ||comm.app.autohome.com.cn^
 ||commercial.shouji.360.cn^
-||commindo-media-ressourcen.de^
 ||commissionmonster.com^
 ||communications.melitaltd.com^
 ||compactbanner.com^
 ||comparereaction.com^
 ||compiledoctor.com^
 ||comprabanner.it^
+||concernedchange.com^
 ||conde.adsame.com^
 ||conditionchange.com^
 ||conductrics.com^
@@ -3016,6 +3015,7 @@
 ||content.s8bbs.com^
 ||content22.online.citi.com^
 ||contextweb.com^
+||contrack.link^
 ||controlcola.com^
 ||conv.youdao.com^
 ||converge-digital.com^
@@ -3156,6 +3156,7 @@
 ||customad.cnn.com^
 ||customads.co^
 ||customers.kameleoon.com^
+||cutcurrent.com^
 ||cutechin.com^
 ||cvda.17173.com^
 ||cvt.mydas.mobi^
@@ -3316,7 +3317,6 @@
 ||de.pandora.xiaomi.com^
 ||de17a.com^
 ||dealdotcom.com^
-||debtbusterloans.com^
 ||debug.mssp.adunite.com^
 ||debugreport.mobiledissector.com^
 ||decenterads.com^
@@ -6108,6 +6108,7 @@
 ||oascentral.lycos.com^
 ||oascentral.register.com^
 ||oask.xulizui6.com^
+||objecthero.com^
 ||obscenesidewalk.com^
 ||observantice.com^
 ||oc.umeng.com^
@@ -6589,6 +6590,7 @@
 ||presetrabbits.com^
 ||preview.adsame.com^
 ||previousplayground.com^
+||previouspotato.com^
 ||prf.hn^
 ||priceypies.com^
 ||pricklydebt.com^
@@ -6779,6 +6781,7 @@
 ||qr.coocaa.com^
 ||qrlsx.com^
 ||qstore.inner.api.sj.360.cn^
+||quacksquirrel.com^
 ||quaintcan.com^
 ||quanjing.cnzz.com^
 ||quantcast.com^
@@ -6834,6 +6837,7 @@
 ||railwayreason.com^
 ||rambunctiousflock.com^
 ||rampidads.com^
+||randkuj.xyz^
 ||rank.hit.china.com^
 ||rankchamp.de^
 ||ranking-charts.de^
@@ -7360,6 +7364,7 @@
 ||scaredswing.com^
 ||scarfsmash.com^
 ||scatteredheat.com^
+||scatteredquiver.com^
 ||sccdn.f2zd.com^
 ||scdown.qq.com^
 ||scene.vip.xunlei.com^
@@ -7728,7 +7733,6 @@
 ||sponsorads.de^
 ||sponsorpro.de^
 ||spookysleet.com^
-||spot.fitness.com^
 ||spotlessstamp.com^
 ||spotscenered.info^
 ||spotx.tv^
@@ -7964,6 +7968,7 @@
 ||steadfastsystem.com^
 ||steelhouse.com^
 ||steelhousemedia.com^
+||steepscale.com^
 ||stenadewy.pro^
 ||stickyadstv.com^
 ||stiffgame.com^
@@ -8330,6 +8335,7 @@
 ||tnc3-aliec2.snssdk.com^
 ||tnkexchange.com^
 ||tns-counter.ru^
+||to-go1.eu^
 ||toateeli.net^
 ||tob-cms.bj.bcebos.com^
 ||toblog.ctobsnssdk.com^
@@ -8385,6 +8391,7 @@
 ||trace.ynet.com^
 ||tracelog-debug.aiclk.com^
 ||track-help.admaster.com.cn^
+||track-on.pl^
 ||track.58.com^
 ||track.ad4game.com^
 ||track.adform.net^
@@ -8873,6 +8880,7 @@
 ||vervewireless.com^
 ||vfs.admaster.com.cn^
 ||vgf.zuihuixuan.com^
+||vgnp3trk.com^
 ||vhd23.cnsanheng.cn^
 ||vhec.jhjhyn.cn^
 ||vhunantv.admaster.com.cn^
@@ -8934,6 +8942,7 @@
 ||vodlog.m1905.cn^
 ||vodpic.320down.club^
 ||voicefive.com^
+||voicelessvein.com^
 ||voila.refr.adgtw.orangeads.fr^
 ||volatilevessel.com^
 ||voluum.com^
@@ -9158,7 +9167,6 @@
 ||wss.cnzz.com^
 ||wt-eu02.net^
 ||wt.bankmillennium.pl^
-||wtlive.com^
 ||wtradv.market.xiaomi.com^
 ||wukong.adeaz.com^
 ||wuliao.epro.sogou.com^
