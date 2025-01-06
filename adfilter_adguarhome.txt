@@ -458,7 +458,6 @@
 ||ad.hbv.de^
 ||ad.hefei.cc^
 ||ad.hiiir.com^
-||ad.hodomobile.com^
 ||ad.holaq.com^
 ||ad.hot-mob.com^
 ||ad.house365.com^
@@ -2118,7 +2117,6 @@
 ||bannerimage.com^
 ||bannermall.com^
 ||bannermanager.bnr.bg^
-||bannermarkt.nl^
 ||bannerpower.com^
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
@@ -2318,6 +2316,7 @@
 ||blogtoplist.se^
 ||blogtopsites.com^
 ||blue-ad.ad-stir.com^
+||blueadvertise.com^
 ||blueconic.com^
 ||blueconic.net^
 ||bluekai.com^
@@ -2745,6 +2744,7 @@
 ||click.cision.com^
 ||click.classmates.com^
 ||click.comm.rcibank.co.uk^
+||click.crm.ba.com^
 ||click.dangdang.com^
 ||click.digital.metaquestmail.com^
 ||click.discord.com^
@@ -3989,7 +3989,6 @@
 ||frequentflesh.com^
 ||freshrelevance.com^
 ||frightenedpotato.com^
-||frogator.com^
 ||frontstat.agrantsem.com^
 ||fronttoad.com^
 ||frtyj.com^
@@ -5077,6 +5076,7 @@
 ||lameletters.com^
 ||larati.net^
 ||largebrass.com^
+||laughcloth.com^
 ||launchbit.com^
 ||launches.appsflyer.com^
 ||layer-ad.de^
@@ -5937,7 +5937,6 @@
 ||mylead.global^
 ||mylink-today.com^
 ||mypagerank.net^
-||mypagerank.ru^
 ||mypowermall.com^
 ||mystat-in.net^
 ||mystat.pl^
@@ -6339,7 +6338,6 @@
 ||panda.adsame.com^
 ||panda.kdnet.net^
 ||pangolin.snssdk.com^
-||panickycurtain.com^
 ||panickypancake.com^
 ||panoramicplane.com^
 ||parachutehome.sjv.io^
@@ -7694,7 +7692,6 @@
 ||somoaudience.com^
 ||song.fanxing.kugou.com^
 ||sonobi.com^
-||sordidsmile.com^
 ||sorrowfulchemical.com^
 ||sortable.com^
 ||source.youxiaoad.com^
@@ -8395,6 +8392,7 @@
 ||trace.ynet.com^
 ||tracelog-debug.aiclk.com^
 ||track-help.admaster.com.cn^
+||track-on.eu^
 ||track-on.pl^
 ||track.58.com^
 ||track.ad4game.com^
@@ -9021,7 +9019,6 @@
 ||wapscdn.wapx.cn^
 ||wapwbclick.mobile.sina.cn^
 ||wapx.cn^
-||warlog.ru^
 ||warmafterthought.com^
 ||washbanana.com^
 ||wateryvan.com^
