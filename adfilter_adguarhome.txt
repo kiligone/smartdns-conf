@@ -5,7 +5,6 @@
 ||036e.cn^
 ||09_19.supfree.net^
 ||0x5.me^
-||1-1ads.com^
 ||1.1010pic.com^
 ||1.ad-locus.com^
 ||1.aili.com^
@@ -595,7 +594,6 @@
 ||adapi.lenovogame.com^
 ||adapt.tv^
 ||adapter.shouji.360.cn^
-||adaranth.com^
 ||adasad.myweb.hinet.net^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||adash.m.taobao.com^
@@ -845,7 +843,6 @@
 ||ads-ap.adaptv.advertising.com^
 ||ads-backend.chaincliq.com^
 ||ads-bilek.com^
-||ads-click.com^
 ||ads-dev.ad4game.com^
 ||ads-dev.pinterest.com^
 ||ads-ec.adaptv.advertising.com^
@@ -908,7 +905,6 @@
 ||ads.boerding.com^
 ||ads.boylesports.com^
 ||ads.brabys.com^
-||ads.bumq.com^
 ||ads.canalblog.com^
 ||ads.casinocity.com^
 ||ads.casumoaffiliates.com^
@@ -992,7 +988,6 @@
 ||ads.globo.com^
 ||ads.gmodules.com^
 ||ads.goyk.com^
-||ads.gplusmedia.com^
 ||ads.gradfinder.com^
 ||ads.grindinggears.com^
 ||ads.gsm-exchange.com^
@@ -1040,7 +1035,6 @@
 ||ads.lordlucky.com^
 ||ads.ma7.tv^
 ||ads.mail.bg^
-||ads.mariuana.it^
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
 ||ads.mediaodyssey.com^
@@ -1251,7 +1245,6 @@
 ||adscale.de^
 ||adscdn.baidu.com^
 ||adscholar.com^
-||adscience.nl^
 ||adsclick.qq.com^
 ||adsco.re^
 ||adscpm.com^
@@ -1726,6 +1719,7 @@
 ||androidsdk.ads.mp.mydas.mobi^
 ||andrqd.play.aiseet.atianqi.com^
 ||anfeng.com^
+||angossa.com^
 ||aniview.com^
 ||annonser.dagbladet.no^
 ||annoyedairport.com^
@@ -2117,6 +2111,7 @@
 ||bannerimage.com^
 ||bannermall.com^
 ||bannermanager.bnr.bg^
+||bannermarkt.nl^
 ||bannerpower.com^
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
@@ -2316,7 +2311,6 @@
 ||blogtoplist.se^
 ||blogtopsites.com^
 ||blue-ad.ad-stir.com^
-||blueadvertise.com^
 ||blueconic.com^
 ||blueconic.net^
 ||bluekai.com^
@@ -2786,7 +2780,6 @@
 ||click.stat.hao.360.cn^
 ||click.tanx.com^
 ||click.tianyaui.com^
-||click.twcwigs.com^
 ||click.tz.simba.taobao.com^
 ||click.union.vip.com^
 ||click.uve.mobile.sina.cn^
@@ -3562,6 +3555,7 @@
 ||dynsrv.wps.cn^
 ||dyntrk.com^
 ||dzv1ekshu2vbs.cloudfront.net^
+||e-eu.customeriomail.com^
 ||e-goblin.hupu.com^
 ||e-m.fr^
 ||e-p4p.163.com^
@@ -3582,6 +3576,7 @@
 ||e.cdntlz.cn^
 ||e.cn.miaozhen.com^
 ||e.coenr.com^
+||e.customeriomail.com^
 ||e.czggcj.com^
 ||e.deimm.com^
 ||e.domob.cn^
@@ -3844,7 +3839,6 @@
 ||extreme-dm.com^
 ||extremetracking.com^
 ||extstat.com^
-||eyeblaster.com^
 ||eyeota.net^
 ||eyeviewads.com^
 ||eyewonder.com^
@@ -4164,6 +4158,7 @@
 ||go.dhs.gov^
 ||go.dlads.cn^
 ||go.eu.sparkpostmail1.com^
+||go.first.org^
 ||go.hangzhou.com.cn^
 ||go.icann.org^
 ||go.imgdudu.xyz^
@@ -4203,6 +4198,7 @@
 ||gp.zaiyunli.cn^
 ||graizoah.com^
 ||grandfatherguitar.com^
+||granlite.com^
 ||grapeshot.co.uk^
 ||green-ad.ad-stir.com^
 ||green.erne.co^
@@ -4218,7 +4214,6 @@
 ||gslb.hpplay.cn^
 ||gsp0.baidu.com^
 ||gstat.bitauto.com^
-||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||guce.advertising.com^
@@ -4301,7 +4296,6 @@
 ||hdggcdn.bayimob.com^
 ||hdj.baidu.com^
 ||hdjhsudhe.kuaizhan.com^
-||hdscout.com^
 ||hdt.adx.admaster.com.cn^
 ||health1.12584.cn^
 ||heap.com^
@@ -5111,7 +5105,6 @@
 ||lfstmedia.com^
 ||lg2.jointreport-switch.com^
 ||lg4.jointreport-switch.com^
-||lgad.cjpowercast.com.edgesuite.net^
 ||lgsmartad.com^
 ||lhafy.com^
 ||li.alibris.com^
@@ -5554,6 +5547,7 @@
 ||map.media6degrees.com^
 ||map1.ra.icast.cn^
 ||map1dx.ra.icast.cn^
+||mapcommand.com^
 ||mapdx.icast.cn^
 ||mapping.adsame.com^
 ||mapping.yoyi.com.cn^
@@ -6035,10 +6029,8 @@
 ||news.xueyanshan.com^
 ||newsadsppush.com^
 ||newsbee.adeaz.com^
-||newsletter-link.com^
 ||newspage.xilu.com^
 ||newspush.sinajs.cn^
-||newstarads.com^
 ||newswifiapi.dfshurufa.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
@@ -6541,6 +6533,7 @@
 ||pointlessprofit.com^
 ||pointroll.com^
 ||pokkt.com^
+||polishedfolly.com^
 ||pop-dev.ad4game.com^
 ||pop.code.mytanwan.com^
 ||pop.code.poyang.cn^
@@ -6807,6 +6800,7 @@
 ||r.l.youku.com^
 ||r.logrocket.io^
 ||r.mail.163.com^
+||r.marketing.dubaisothebys.com^
 ||r.msn.com^
 ||r.myadx.net^
 ||r.pixgold.com^
@@ -7743,6 +7737,7 @@
 ||springbot.com^
 ||springserve.com^
 ||spro.so.com^
+||sprysummit.com^
 ||spulse.net^
 ||spylog.com^
 ||spywarelabs.com^
@@ -8364,7 +8359,6 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||topforall.com^
 ||tophippo.vlion.cn^
 ||toplist.cz^
 ||toplist.pornhost.com^
@@ -8391,6 +8385,7 @@
 ||trace.rtbasia.com^
 ||trace.ynet.com^
 ||tracelog-debug.aiclk.com^
+||track-eu.customer.io^
 ||track-help.admaster.com.cn^
 ||track-on.eu^
 ||track-on.pl^
@@ -8404,6 +8399,7 @@
 ||track.canva.com^
 ||track.china.com^
 ||track.contently.com^
+||track.customer.io^
 ||track.dmrtb.com^
 ||track.dragonparking.com^
 ||track.easeus.com^
@@ -8698,6 +8694,7 @@
 ||unionstatis.dftoutiao.com^
 ||unjs.jfcdns.com^
 ||unknowntray.com^
+||unloadyourself.com^
 ||unrulymedia.com^
 ||untd.com^
 ||untidyquestion.com^
@@ -8884,7 +8881,6 @@
 ||vhd23.cnsanheng.cn^
 ||vhec.jhjhyn.cn^
 ||vhunantv.admaster.com.cn^
-||vibrantmedia.com^
 ||vibrantsundown.com^
 ||vid.applovin.com^
 ||vid.pubmatic.com^
