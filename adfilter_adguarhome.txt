@@ -359,7 +359,6 @@
 ||actualdeals.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
-||actuallything.com^
 ||acuityads.com^
 ||acuityplatform.com^
 ||ad-android.51wnl.com^
@@ -5101,6 +5100,7 @@
 ||link.email.usmagazine.com^
 ||link.go.chase^
 ||link.sbstck.com^
+||link.team.hyperoptic.com^
 ||link.theatlantic.com^
 ||link.uk.expediamail.com^
 ||link4ads.com^
@@ -6850,7 +6850,6 @@
 ||recv-wd.gridsumdissector.com^
 ||redir.wggames.cn^
 ||redirect.simba.taobao.com^
-||redirecting8.eu^
 ||redirectingat.com^
 ||redirectvoluum.com^
 ||redpaper-10006092.cos.myqcloud.com^
@@ -6958,6 +6957,7 @@
 ||robotreplay.com^
 ||rockabox.co^
 ||rockagainst.com^
+||rockstarwriter.com^
 ||rok.com.com^
 ||rollconnection.com^
 ||rose.ixbt.com^
