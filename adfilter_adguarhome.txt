@@ -324,7 +324,6 @@
 ||ablink.news.emails-puregym.com^
 ||ablinks.mail.hinge.co^
 ||aboardlevel.com^
-||abruptroad.com^
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||abtasty.com^
@@ -464,7 +463,6 @@
 ||ad.infoseek.com^
 ||ad.intl.xiaomi.com^
 ||ad.ipadview.com^
-||ad.jacotei.com.br^
 ||ad.jetsoftware.com^
 ||ad.jiemian.com^
 ||ad.jp.doubleclick.net^
@@ -605,7 +603,6 @@
 ||adbot.com^
 ||adbrite.com^
 ||adbroker.de^
-||adbunker.com^
 ||adbutler.com^
 ||adbuyer3.lycos.com^
 ||adcampo.com^
@@ -658,7 +655,6 @@
 ||adexpose.com^
 ||adext.inkclub.com^
 ||adf.dahe.cn^
-||adf.ly^
 ||adfeed.marchex.com^
 ||adfile.wifi8.com^
 ||adfill.adview.cn^
@@ -853,7 +849,6 @@
 ||ads.365.mk^
 ||ads.5ci.lt^
 ||ads.73dpi.com^
-||ads.a-snag-smartmoney.fyi^
 ||ads.aavv.com^
 ||ads.abovetopsecret.com^
 ||ads.aceweb.net^
@@ -928,7 +923,6 @@
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
 ||ads.desmoinesregister.com^
-||ads.detelefoongids.nl^
 ||ads.deviantart.com^
 ||ads.devmates.com^
 ||ads.digital-digest.com^
@@ -1180,7 +1174,6 @@
 ||ads.xtra.co.nz^
 ||ads.yahoo.com^
 ||ads.yam.com^
-||ads.yap.yahoo.com^
 ||ads.yimg.com^
 ||ads.yldmgrimg.net^
 ||ads.youtube.com^
@@ -1518,7 +1511,6 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
-||adzrevads.com^
 ||ae.bdstatic.com^
 ||aecpm.alicdn.com^
 ||aerserv.com^
@@ -1685,7 +1677,6 @@
 ||analytics.r.msn.com^
 ||analytics.rayjump.com^
 ||analytics.santander.co.uk^
-||analytics.shorte.st^
 ||analytics.snssdk.com^
 ||analytics.swiggy.com^
 ||analytics.talkingdata.net^
@@ -1977,6 +1968,7 @@
 ||athena.wan.sogou.com^
 ||atlas.leadboltads.net^
 ||atm.yoyi.com.cn^
+||ato.mx^
 ||atplay.cn^
 ||att.stargame.com^
 ||attach.s8bbs.com^
@@ -2021,7 +2013,6 @@
 ||ayads.co^
 ||ayidaye.m.zwdu.com^
 ||azarlive-branch.vsohu.admaster.com.cn^
-||aztracking.net^
 ||b-s.tercept.com^
 ||b.77shw.com^
 ||b.admedia.com^
@@ -2100,7 +2091,6 @@
 ||bannerimage.com^
 ||bannermall.com^
 ||bannermanager.bnr.bg^
-||bannermarkt.nl^
 ||bannerpower.com^
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
@@ -2347,7 +2337,6 @@
 ||brightcom.com^
 ||brightinfo.com^
 ||brightmountainmedia.com^
-||broadboundary.com^
 ||broadcastbed.com^
 ||broadstreetads.com^
 ||browser-http-intake.logs.datadoghq.com^
@@ -2792,7 +2781,6 @@
 ||clickhereforcellphones.com^
 ||clickhk.taboola.com^
 ||clickjs.cnzz.com^
-||clicklink.jp^
 ||clicklog.moviebox.baofeng.net^
 ||clickm.fang.com^
 ||clickn.fang.com^
@@ -2950,7 +2938,6 @@
 ||communications.melitaltd.com^
 ||compactbanner.com^
 ||comparereaction.com^
-||compiledoctor.com^
 ||comprabanner.it^
 ||conde.adsame.com^
 ||conditionchange.com^
@@ -3259,7 +3246,6 @@
 ||datacapture.serving-sys.com^
 ||datax.baidu.com^
 ||datenow.link^
-||daughterstone.com^
 ||db1.fuz.cc^
 ||db2.fuz.cc^
 ||db5.vortex.data.microsoft.com.akadns.net^
@@ -3351,9 +3337,7 @@
 ||direct-re2.pl^
 ||direct.adperium.com^
 ||directaclick.com^
-||directleads.com^
 ||directorym.com^
-||directtrack.com^
 ||dis.criteo.com^
 ||dis.us.criteo.com^
 ||discountclick.com^
@@ -3689,6 +3673,7 @@
 ||email-links.crowdfireapp.com^
 ||email-open.adtidy.net^
 ||email-open.adtidy.org^
+||email-trk.ihg-businessedge.com^
 ||email.mg1.substack.com^
 ||emailer.stockbit.com^
 ||emaillinks.soundiiz.com^
@@ -3791,7 +3776,6 @@
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
-||exclusivebrass.com^
 ||exelate.com^
 ||exelator.com^
 ||exhibitsneeze.com^
@@ -3881,7 +3865,6 @@
 ||files2.sogou.com^
 ||fim.adnxs.com^
 ||fimserve.com^
-||findcommerce.com^
 ||findyourcasino.com^
 ||finead.cn^
 ||fingahvf.top^
@@ -4266,7 +4249,6 @@
 ||health1.12584.cn^
 ||heap.com^
 ||hechaocheng.cn^
-||heimi-lwx.com^
 ||heimo.rrsdl.com^
 ||hellobar.com^
 ||help.cnzz.com^
@@ -4389,6 +4371,7 @@
 ||hxbt.haha5.cn^
 ||hxlover.com^
 ||hxsame.hexun.com^
+||hydraconcept.com^
 ||hydramedia.com^
 ||hyperbanner.net^
 ||hypersnap.mairuan.com^
@@ -4976,7 +4959,6 @@
 ||klclick1.com^
 ||kliks.nl^
 ||klk.jdflower.cn^
-||klsdee.com^
 ||klz28.com^
 ||km.jianduankm.com^
 ||km.whkwpzz.cn^
@@ -5002,7 +4984,6 @@
 ||ktu.sv2.biz^
 ||ku6.cnzz.com^
 ||kuaigao.rrsdl.com^
-||kubient.com^
 ||kveaa.com^
 ||kvecc.com^
 ||kvemm.com^
@@ -5043,6 +5024,7 @@
 ||ld.mediaget.com^
 ||ldpgl.code.mytanwan.com^
 ||ldy.350.com^
+||lead02.com^
 ||leadboltads.net^
 ||leadclick.com^
 ||leadinfo.net^
@@ -5099,13 +5081,13 @@
 ||linglong.supersuer.com^
 ||link-booster.de^
 ||link.axios.com^
+||link.email.davidlloydclubs.co.uk^
 ||link.email.usmagazine.com^
 ||link.go.chase^
 ||link.sbstck.com^
 ||link.team.hyperoptic.com^
 ||link.theatlantic.com^
 ||link.uk.expediamail.com^
-||link4ads.com^
 ||linkbuddies.com^
 ||linkexchange.com^
 ||linkprice.com^
@@ -5558,7 +5540,6 @@
 ||max.adsame.com^
 ||max.i12.de^
 ||max.mediav.com^
-||maximiser.net^
 ||maxonclick.com^
 ||maxsys.adsame.com^
 ||maxwebsearch.com^
@@ -5607,7 +5588,6 @@
 ||media6degrees.com^
 ||mediaarea.eu^
 ||mediabridge.cc^
-||mediacharger.com^
 ||mediafuse.com^
 ||mediageneral.com^
 ||mediaiqdigital.com^
@@ -5950,7 +5930,6 @@
 ||netaffiliation.com^
 ||netagent.cz^
 ||netclickstats.com^
-||netcommunities.com^
 ||netdirect.nl^
 ||netech.postaffiliatepro.com^
 ||netmera-web.com^
@@ -6104,7 +6083,6 @@
 ||onclickads.net^
 ||onclkds.com^
 ||oneandonlynetwork.com^
-||onenetworkdirect.com^
 ||onestat.com^
 ||onestatfree.com^
 ||onetag-sys.com^
@@ -6266,6 +6244,7 @@
 ||pad.zhywyl.cn^
 ||paflibnq.mamiyue.com.cn^
 ||pag.qdwght.com^
+||page-redirect.eu^
 ||page.acm.dzwww.com^
 ||page.xywy.com^
 ||pagead.l.google.com^
@@ -6281,7 +6260,6 @@
 ||pageshow.dftoutiao.com^
 ||painstakingpickle.com^
 ||paleleaf.com^
-||panatenlink.pl^
 ||panda.adsame.com^
 ||panda.kdnet.net^
 ||pangolin.snssdk.com^
@@ -6817,7 +6795,6 @@
 ||rd.wan.360.cn^
 ||rdstat.tanx.com^
 ||rdx.autohome.com.cn^
-||re-direct.pl^
 ||re-direct1.com^
 ||re.m.taobao.com^
 ||re.taobao.com^
@@ -6862,7 +6839,6 @@
 ||referrer.disqus.com^
 ||reg.wisecleaner.com^
 ||registration.presonus.com^
-||regnow.com^
 ||regularplants.com^
 ||regulationprivilegescan.top^
 ||reklam.rfsl.se^
@@ -8283,6 +8259,7 @@
 ||tongji.wlongchina.com^
 ||tongji.yicha.cn^
 ||toolbar.msn.com^
+||top-casting-termine.de^
 ||top-site-list.com^
 ||top.h.qhimg.com^
 ||top.h.qhmsg.com^
@@ -8360,7 +8337,6 @@
 ||track.sohu.com^
 ||track.spe.schoolmessenger.com^
 ||track.tenjin.com^
-||track.themaccleanup.info^
 ||track.tiara.daum.net^
 ||track.uc.cn^
 ||track.ultravpn.com^
@@ -8387,8 +8363,6 @@
 ||tracker3.zmzfile.com^
 ||tracker4.zmzfile.com^
 ||tracker5.zmzfile.com^
-||tracking.42-01pr5-osm-secure.co.uk^
-||tracking.5-47737-bi.co.uk^
 ||tracking.ad-survey.com^
 ||tracking.adwo.com^
 ||tracking.babytree.com^
@@ -8476,6 +8450,7 @@
 ||tribalfusion.com^
 ||triplelift.com^
 ||triptease.io^
+||trk.4ff.pro^
 ||trk.bad-tool-tell-doubt.xyz^
 ||trk.bc.shutterfly.com^
 ||trk.btrkout.com^
@@ -8485,7 +8460,6 @@
 ||trk.techtarget.com^
 ||trk42.net^
 ||trkn.us^
-||trknths.com^
 ||trkoptimizer.com^
 ||trkpnt.ongage.net^
 ||trmit.com^
@@ -8801,7 +8775,6 @@
 ||ver.touclick.com^
 ||vericlick.com^
 ||vertamedia.com^
-||verticalmass.com^
 ||vervewireless.com^
 ||vfs.admaster.com.cn^
 ||vgf.zuihuixuan.com^
@@ -8831,6 +8804,7 @@
 ||view.mediav.com^
 ||view4cash.de^
 ||viglink.com^
+||vilenexus.com^
 ||vip.51.la^
 ||vip.70qn.com^
 ||vip.hyz86.com^
@@ -9061,7 +9035,6 @@
 ||wncs.7ez4.cn^
 ||wnek.xvyLjkr.com^
 ||woaizhongguo.cdn111222.com^
-||wonderlandads.com^
 ||wondoads.de^
 ||woodpecker.uc.cn^
 ||woopra.com^
