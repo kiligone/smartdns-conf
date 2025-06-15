@@ -647,7 +647,6 @@
 ||adengage.com^
 ||adeq.hiidc.com.cn^
 ||adetracking.com^
-||adeure.com^
 ||adeventtracker.spotify.com^
 ||adexc.net^
 ||adexchangegate.com^
@@ -655,6 +654,7 @@
 ||adexpose.com^
 ||adext.inkclub.com^
 ||adf.dahe.cn^
+||adf.ly^
 ||adfeed.marchex.com^
 ||adfile.wifi8.com^
 ||adfill.adview.cn^
@@ -805,7 +805,6 @@
 ||adping.qq.com^
 ||adplexmedia.adk2.co^
 ||adplexmedia.adk2x.com^
-||adplus.co.id^
 ||adplxmd.com^
 ||adpm.app.qq.com^
 ||adpro.pro.cn^
@@ -841,6 +840,7 @@
 ||ads-ec.adaptv.advertising.com^
 ||ads-eu.adaptv.advertising.com^
 ||ads-game-187f4.firebaseapp.com^
+||ads-img.mozilla.org^
 ||ads-pixiv.net^
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
@@ -1082,6 +1082,7 @@
 ||ads.powweb.com^
 ||ads.printscr.com^
 ||ads.prisacom.com^
+||ads.prod.webservices.mozgcp.net^
 ||ads.program3.com^
 ||ads.psd2html.com^
 ||ads.pubmatic.com^
@@ -1350,7 +1351,6 @@
 ||adskpak.com^
 ||adslvfile.qq.com^
 ||adslvseed.qq.com^
-||adsmart.com^
 ||adsmart.net^
 ||adsmart.yicha.cn^
 ||adsmartracker.com^
@@ -1458,6 +1458,7 @@
 ||advert.mting.info^
 ||adverticum.com^
 ||adverticum.net^
+||advertipros.com^
 ||advertise.com^
 ||advertiseireland.com^
 ||advertiserurl.com^
@@ -2393,7 +2394,6 @@
 ||c.click.alimama.com^
 ||c.cnzz.com^
 ||c.codeonclick.com^
-||c.corporate-fundraising.co.uk^
 ||c.cqdjhj.cn^
 ||c.cyhx98.com^
 ||c.cyto-biotherapy.com^
@@ -2622,7 +2622,6 @@
 ||cds.51y5.net^
 ||ce3e75d5.jpush.cn^
 ||ceadx.agrantsem.com^
-||ceciliavenus.com^
 ||ced.sascdn.com^
 ||cedato.com^
 ||cee1.iteye.com^
@@ -2703,6 +2702,7 @@
 ||click.bkdpt.com^
 ||click.bpc.ad-stir.com^
 ||click.cartsguru.io^
+||click.ccg.nintendo.com^
 ||click.cheshi.com^
 ||click.cision.com^
 ||click.classmates.com^
@@ -2721,6 +2721,7 @@
 ||click.email.sonos.com^
 ||click.email.strawberry.no^
 ||click.emails.argos.co.uk^
+||click.emails.tuclothing.sainsburys.co.uk^
 ||click.fool.com^
 ||click.gamersky.com^
 ||click.ganji.com^
@@ -2792,6 +2793,7 @@
 ||clicks.eventbrite.com^
 ||clicks.monzo.com^
 ||clickserve.cc-dt.com^
+||clicksinfo.thefork.co.uk^
 ||clicktag.de^
 ||clickthruserver.com^
 ||clickthrutraffic.com^
@@ -3216,7 +3218,6 @@
 ||dam.corel.com^
 ||damageddistance.com^
 ||damdoor.com^
-||dancemistake.com^
 ||daoyoudao.com^
 ||dap.pagechoice.net^
 ||dapper.net^
@@ -3283,7 +3284,6 @@
 ||decisivebase.com^
 ||decisivedrawer.com^
 ||decknetwork.net^
-||decoycreation.com^
 ||deepintent.com^
 ||delicatecascade.com^
 ||delivery-pc.wasu.cn^
@@ -3295,7 +3295,6 @@
 ||delivery06.ad4game.com^
 ||deloo.de^
 ||deloplen.com^
-||deloton.com^
 ||demandbase.com^
 ||demdex.net^
 ||demo.adsame.com^
@@ -3865,6 +3864,7 @@
 ||files2.sogou.com^
 ||fim.adnxs.com^
 ||fimserve.com^
+||findcommerce.com^
 ||findyourcasino.com^
 ||finead.cn^
 ||fingahvf.top^
@@ -3904,7 +3904,6 @@
 ||foresee.com^
 ||forex-affiliate.net^
 ||forkcdn.com^
-||forwrdnow.com^
 ||fota4.adups.cn^
 ||fozhu.rrsdl.com^
 ||fp-bj.fengkongcloud.com^
@@ -4249,6 +4248,7 @@
 ||health1.12584.cn^
 ||heap.com^
 ||hechaocheng.cn^
+||heimi-lwx.com^
 ||heimo.rrsdl.com^
 ||hellobar.com^
 ||help.cnzz.com^
@@ -4770,7 +4770,6 @@
 ||ja2n2u30a6rgyd.com^
 ||jack.okkkk.com^
 ||jads.co^
-||jauchuwa.net^
 ||jb.4hw.com.cn^
 ||jb.asqql.com^
 ||jc.0351dvd.cn^
@@ -5540,6 +5539,7 @@
 ||max.adsame.com^
 ||max.i12.de^
 ||max.mediav.com^
+||maximiser.net^
 ||maxonclick.com^
 ||maxsys.adsame.com^
 ||maxwebsearch.com^
@@ -5855,7 +5855,6 @@
 ||myads.telkomsel.com^
 ||myaffiliateprogram.com^
 ||mybbc-analytics.files.bbci.co.uk^
-||mybetterdl.com^
 ||mybloglog.com^
 ||mybuys.com^
 ||mycleanmymac.com^
@@ -5881,7 +5880,6 @@
 ||n.vlion.cn^
 ||n.yyhanyu.cn^
 ||n1.zuoyebang.cc^
-||n2.mouseflow.com^
 ||n2.zuoyebang.cc^
 ||n3.zuoyebang.cc^
 ||n4.zuoyebang.cc^
@@ -6079,7 +6077,6 @@
 ||omniture.com^
 ||omtrdc.net^
 ||onaudience.com^
-||onclasrv.com^
 ||onclickads.net^
 ||onclkds.com^
 ||oneandonlynetwork.com^
@@ -6548,7 +6545,6 @@
 ||promote.caixin.com^
 ||promote.pair.com^
 ||promotion.gomlab.com^
-||promotions-884485.c.cdn77.org^
 ||pronetadvertising.com^
 ||propellerads.com^
 ||propellerclick.com^
@@ -6795,7 +6791,7 @@
 ||rd.wan.360.cn^
 ||rdstat.tanx.com^
 ||rdx.autohome.com.cn^
-||re-direct1.com^
+||re-direct.pl^
 ||re.m.taobao.com^
 ||re.taobao.com^
 ||reachjunction.com^
@@ -7054,7 +7050,6 @@
 ||s.zlongad.com^
 ||s0.2mdn.net^
 ||s03.optimix.asia^
-||s1-adfly.com^
 ||s1.2mdn.net^
 ||s1.adform.net^
 ||s1.cnzz.com^
@@ -7335,7 +7330,6 @@
 ||sdkclick.mobile.sina.cn^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
-||sdkfjxjertertry.com^
 ||sdklog.uu.cc^
 ||sdkm.w.inmobi.cn^
 ||sdkm.w.inmobi.com^
@@ -7628,7 +7622,6 @@
 ||spdmg-backend.i-mobile.co.jp^
 ||spdmg.i-mobile.co.jp^
 ||speakol.com^
-||specially4u.net^
 ||specificmedia.co.uk^
 ||specificpop.com^
 ||speedomizer.com^
@@ -7868,7 +7861,6 @@
 ||stats.townnews.com^
 ||stats.wordpress.com^
 ||stats.wp.com^
-||stats.x14.eu^
 ||stats2.self.com^
 ||stats4all.com^
 ||statserv.net^
@@ -8775,6 +8767,7 @@
 ||ver.touclick.com^
 ||vericlick.com^
 ||vertamedia.com^
+||verticalmass.com^
 ||vervewireless.com^
 ||vfs.admaster.com.cn^
 ||vgf.zuihuixuan.com^
@@ -8992,7 +8985,6 @@
 ||wheredoyoucomefrom.ovh^
 ||whirlwealth.com^
 ||whiskyqueue.com^
-||whispa.com^
 ||whisperingcascade.com^
 ||whisperingcrib.com^
 ||whisperingsummit.com^
